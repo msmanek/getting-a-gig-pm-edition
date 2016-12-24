@@ -1,10 +1,74 @@
-Getting a Gig: A Guide
+Getting a Gig: A Guide (PM EDITION)
 =============
 
 # Introduction
 
 Hey friends!
-This is a guide for getting a gig in college as a tech major.  I graduated May 2014 with 10 job offers after having 5 internships throughout my four years of college.  You can do that, too.  Because you're great.
+I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM). 
+
+
+
+
+
+How I think it should be structured
+
+Intro
+The Role
+
+The role of the PM varies from company to company. In some companies, a PM is more akin to a marketing role, or a Product Marketing Manager. In other companies, PMs may in a more project management type role. But, the definition that we are going to be using is more of a technical product manager. In particular, a PM is an indiviudal who's role is to drive forward the development of a product. PMs do this by 
+
+Here are some good primers on the role:
+- [Sachin Rekhi's talk on product management]()
+- [Microsoft's blogpost on program management - their version of Product Managers]()
+
+
+Resume
+
+PMs tend to be well rounded individuals. As a general rule, you want to highlight that you have skills/understanding in three key areas: software development, design and business. Software Development is the practice of creating software, be it apps, websites, etc. Design pertains to the visual elements of creating a product (i.e. how it looks, how it feels, etc). Business has to do with how the technology serves the needs/goals of the company. So, you want your resume to really showcase your general understanding of them. 
+
+
+
+
+Cover Letter
+
+Skills
+
+Building them
+Selling them
+Your Search
+
+Companies that commonly hire and what they hire for
+
+Facebook RPM
+Google APM
+Microsoft PM
+LinkedIn
+Yelp
+Twitter APM
+Yahoo APM
+Data Dog Intern
+Lyft
+Redfin
+Twitch
+
+
+
+
+conclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Contents
 - Introduction (you read that already)
@@ -29,8 +93,14 @@ Your resume is your personal summary sheet.  Your resume is the thing that gets 
 ### Make your name **BIG.**
 Your name has to stand out from everything else, because you want it to be remembered.  Making it the biggest thing on the page is the easiest thing you can do to make that possible.  I've seen soooo many resumes where the name is at the top, but it's just bolded and centered and they expect that to be enough.  It's not.  
 
+### Stick to one page.
+You are in college right now. People more accomplished than you can put their resume in a single page. There is no reason why you should be able to do so too.
+
 ### Remove the objective.
 Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them.  Use that space to talk about projects you've done, activities you've done, etc.
+
+### Remove "References available upon request".
+It is implied.
 
 ### Keep it to a single page.
 Recruiters are looking for a short summary of you.  They're reading several resumes a day, and if they see something longer than they typically read, they could pass over yours for something more concise!  If you'd like to say more, put a link to a personal website or portfolio for someone to find it.  A resume is a summary, not a tome.
@@ -155,7 +225,16 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [Gainlo](http://www.gainlo.co/) - paid
 - [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/) - paid
 
+
+**Online Communities**
+- [HH Product Management Facebook Group]()
+
+
 Here's some books that might also be useful.
+- [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818)
+
+
+
 - [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
 - [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 - [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
