@@ -7,13 +7,6 @@ Hey friends!
 I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a (not so) comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM). 
 
 
-
-
-
-How I think it should be structured
-
-Intro
-
 # The Role (aka what PM is)
 
 In recent years, product management has become a hot topic, and there has been a lot of hype surrounding the role. But, what does it really mean to be a product manager? The real answer is that product management is ambiguous. The role of the PM varies from company to company. In some companies, a PM is more akin to a mgarketing role, or a Product Marketing Manager. In other companies, PMs may in a more project management type role. So, it is important to define what a product manager is before we can begin discussing how to become one/get a gig as one.
@@ -21,25 +14,37 @@ In recent years, product management has become a hot topic, and there has been a
 A product manager is someone who takes ownership over a product (or a part of it) and does everything in their power to make that product succeed. They communicate with major stakeholders (users, internal teams, etc) to determine their requirements and then come up with the best way to make a product move forward. In many ways, product managers act as the glue between the business and the technology, understanding business needs that drive the development of a product.
 
 Here are some good primers by people smarter than me:
+
 - [Sachin Rekhi's talk on product management](https://youtu.be/huTSPanUlQM)
 - [Microsoft's blogpost on program management - their version of Product Managers](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/)
 
 
 # Misconceptions (aka what PM is not)
 
-Here are some misconceptions of the role:
-
-### Product Managers are Managers
+#### Misconception 1: Product Managers are Managers
 
 Despire the name "manager" in the title, product managers tend to not directly manage people. In some companies, there may be a product manager managers or a head of product who tends to manage other product managers. But, in general, the product manager's role is not directly above that of engineers, QA, etc. Instead, product managers practice "influence without authority", which means that they need to be able to get buy in from the rest of the technical team and get them onboard without their vision. This is one of the reasons why product managers need to be strong communicators and great at dealing with people. 
 
-### Product Managers are glorified project managers
+#### Misconception 2: Product Managers are glorified project managers
 
 While it is true that product managers do some project management, the role of the product manager is fundamentally different from that of the project manager. The a project manager tends to already have requirements/scoping given to them. They then divy the work up and set timelines. A product manager's job is to gather the requirements and develop an understanding of where the product is going and commiunicate this understanding to others to get it done. 
 
-### Product Managers are Non-Technical
+#### Misconception 3: Product Managers are Non-Technical
 
 While it is true that majority of product managers do not directly touch code, many do in fact come from a technical background. Product Managers need to understand how the development process works and how to communicate with developers. Having experience directly in the development process as a dev, hence, is valuable to have as a product manager. But technical backgrounds are not the only backgrounds that product managers come from. [Here is a great blogpost by Sachin Rekhi on the various routes one can take to become a product manager.](http://www.sachinrekhi.com/5-paths-to-your-first-product-manager-role)
+
+
+# Your Profile 
+
+
+As a a tech major, the profile that you want to sells is:
+
+Dev, Design and Business.
+
+How to hit them:
+
+Business: extracurricular activities are where ths
+
 
 Resume
 
@@ -56,24 +61,41 @@ Building them
 Selling them
 Your Search
 
-Companies that commonly hire and what they hire for
 
-Facebook RPM
-Google APM
-Microsoft PM
-LinkedIn
-Yelp
-Twitter APM
-Yahoo APM
-Data Dog Intern
-Lyft
-Redfin
-Twitch
+# Some Common Gigs
 
 
+#### Some Notes:
+
+Product Management Internships tend to be few and far between. And they tend to be quite selective too. So a good tactic to employ is to get an internship doing something easier to get into first (i.e. software engineering) and then use the contacts you make to help you land the interview. Also, something that helps a lot is referrals as big companies tend to give preference to them. 
+
+A lot of smaller companies/startups tend to have product managers as well. Often with them, they will not have an established PM Program. But, if you find the right decision maker and sway their opinion, you can actually end up with an internship that way (IMO this is the more effective and true to PM way to do it anyways if big company life is not for you or if you do not get into big companies). 
 
 
-conclusion
+#### Internships:
+
+- [Microsoft Explore Program](https://careers.microsoft.com/students/explore) - Internship program aimed at first and second year students by Microsoft. You get a chance to work as a dev and as a pm during the course of a summer. People have been able to do this and convert this to a return offer as a PM intern. 
+- Microsoft Program Management Internship - One of the more straightforward PM internships to get into. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your Microsoft Recruiter (every school tends to have one assigned to them).
+- Google APM Intern - One of the most selective and exclusive PM Internships. Definitely hard to get into. They publish the day that applications open, so apply on that day to maximize your chances.
+- LinkedIn Product Management Internship - This one is a newer one, so there are fewer spots (for summer 2017, apparently there is max 10 spots)
+- Yelp Product Management Internships - I personally do not know much about this beyond the fact that it does in fact exist.
+- Data Dog Product Management Internship - same with this
+- Twitch Product Management Internship - same with this
+- Lyft Product Management Internship - same with this
+- Redfin Product Management Internship - same with this
+- Eventmobi - a startup in Toronto, Canada that has previously hired PM interns
+
+#### New Grad:
+
+- [Yahoo APM](https://careers.yahoo.com/us/students/content/1729) - one of the first associate product manager programs...
+- [Facebook RPM](http://fbrpms.com/) - This is a rotational program that spans 18 months, where you get the opportunity to spend 6 months as a product manager in various functional areas in Facebook.
+- [Google APM](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-university-1600-amphitheatre-pkwy-mountain-view-ca-1029330389&) - Google's version of a rotational product management program started by Marissa Meyer. [This Quora post has a bunch of info on it.](https://www.quora.com/What-is-Googles-APM-program)
+- [Twitter APM](http://www.twitterapm.com/) - This is a two year program where you go through two rotations. 
+- Zynga RPM - apparently Zynga does the whole PM rotation thing too...
+- Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
+- Uber APM - apparently Uber hires Associate Product Managers out of school too....
+
+#### New Grad:
 
 
 
