@@ -7,9 +7,10 @@ Hey friends!
 I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a (not so) comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM). 
 
 
+
 # The Role (aka what PM is)
 
-In recent years, product management has become a hot topic, and there has been a lot of hype surrounding the role. But, what does it really mean to be a product manager? The real answer is that product management is ambiguous. The role of the PM varies from company to company. In some companies, a PM is more akin to a mgarketing role, or a Product Marketing Manager. In other companies, PMs may in a more project management type role. So, it is important to define what a product manager is before we can begin discussing how to become one/get a gig as one.
+In recent years, product management has become a hot topic, and there has been a lot of hype surrounding the role. But, what does it really mean to be a product manager? The real answer is that product management is ambiguous. The role of the PM varies from company to company. In some companies, a PM is more akin to a marketing role, or a Product Marketing Manager. In other companies, PMs may in a more project management type role. So, it is important to define what a product manager is before we can begin discussing how to become one/get a gig as one.
 
 A product manager is someone who takes ownership over a product (or a part of it) and does everything in their power to make that product succeed. They communicate with major stakeholders (users, internal teams, etc) to determine their requirements and then come up with the best way to make a product move forward. In many ways, product managers act as the glue between the business and the technology, understanding business needs that drive the development of a product.
 
@@ -17,6 +18,7 @@ Here are some good primers by people smarter than me:
 
 - [Sachin Rekhi's talk on product management](https://youtu.be/huTSPanUlQM)
 - [Microsoft's blogpost on program management - their version of Product Managers](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/)
+
 
 
 # Misconceptions (aka what PM is not)
@@ -34,58 +36,42 @@ While it is true that product managers do some project management, the role of t
 While it is true that majority of product managers do not directly touch code, many do in fact come from a technical background. Product Managers need to understand how the development process works and how to communicate with developers. Having experience directly in the development process as a dev, hence, is valuable to have as a product manager. But technical backgrounds are not the only backgrounds that product managers come from. [Here is a great blogpost by Sachin Rekhi on the various routes one can take to become a product manager.](http://www.sachinrekhi.com/5-paths-to-your-first-product-manager-role)
 
 
+
 # Your Profile 
 
-As a a tech major, there are three major areas of skills that you want to sell yourself by as a product manger: development, design and business.
+As a a tech major, there are three major areas of skills that you want to posess that you can sell yourself by as a product manager: development, design and business.
 
 #### Development (aka Software Engineering)
 
 I will not go too much in the details here, but having a software engineering background is quite useful for someone going into product. Also, because you are a tech major, I am assuming that you have had some programming courses before and know some of the basics. You will not be directly asked coding interview questions (it is highly irregular for you to be asked them), but knowing the process of the creation of software is invaluable. Furthermore, PM's tend to need to go through data, so knowing some SQL is valuable here.
 
-**BUT HOW?** Get a software engineering internship somewhere. Go to hackathons and build things. Pick up some side projects along the way.
+*BUT HOW?* Get a software engineering internship somewhere. Go to hackathons and build things. Pick up some side projects along the way.
 
 #### Design
 
 Depending on the type of product management you are doing, you will have to have an understanding of design. Why? If you are the product manager of an app, you are going to need to have a sense of design to know how to aesthetically make a feature. Beyond that, there is the theory of design (ex: usability heuristics, types of interaction, etc.) as well as the design process. You will need to know how the design process works (defining the problem, coming up with key metrics, brainstorming solutions, determining which one is best to go forward and testing it to see if it's the right one). So, having a background in some form of design is valuable as you will be going through the design process as a PM and a lot of PM interview questions are design oriented.
 
-**BUT HOW?** Take design courses in school in areas such as Human Computer Interaction or Interaction Design. Challenge yourself to do redesigns of common websites/products and document your process online (ex: Spotify, Facbook, GMail, etc). Do web design for free for organizations you care about to get a sense how things are designed. Read design blogs/books.
+*BUT HOW?* Take design courses in school in areas such as Human Computer Interaction or Interaction Design. Challenge yourself to do redesigns of common websites/products and document your process online (ex: Spotify, Facbook, GMail, etc). Do web design for free for organizations you care about to get a sense how things are designed. Read design blogs/books.
 
 #### Business
 
 Great product managers are able to understand the market they are in, and the business needs of the company. Using this understanding, they are able to come up with the best solution to move forward. As a result of that, having a good business acumen is a valuable asset. A good product manager is able to understand the competitive landscape and other stakeholders when coming up with the direction of a product. In interviews, this a valuable skill to have too (ex: what are the competitors of a business?).
 
-**BUT HOW?** Get involved out of school with clubs/extracurricular activities. Start a business or a non-profit and get involved with the business side of things.
+*BUT HOW?* Get involved out of school with clubs/extracurricular activities. Start a business or a non-profit and get involved with the business side of things.
 
 #### A Note
 
-The best product managers are the ones who are able to build great products. So, to demonstrate that, pick a product and make it a reality. [Here is a repo with some ideas.](https://github.com/vicky002/1000_Projects) If those bore you, make a clone of your favourite app, but make it better. Show that you have what it takes to make great products and then launch them. Not only will this look good as a PM, but you will have a ton of fun doing it and will learn a lot about what it means to be a PM by doing it. 
+The best product managers are the ones who are able to build great products. So, to demonstrate that, pick a product and make it a reality. [Here is a repo with some ideas.](https://github.com/vicky002/1000_Projects) Or, make a personal website/portfolio, it serves the double purpose of making you look like a stronger candidate and developing your skills. If those bore you, make a clone of your favourite app, but make it better. Show that you have what it takes to make great products and then launch them. Not only will this look good as a PM, but you will have a ton of fun doing it and will learn a lot about what it means to be a PM by doing it. 
 
-
-Resume
-
-PMs tend to be well rounded individuals. As a general rule, you want to highlight that you have skills/understanding in three key areas: software development, design and business. Software Development is the practice of creating software, be it apps, websites, etc. Design pertains to the visual elements of creating a product (i.e. how it looks, how it feels, etc). Business has to do with how the technology serves the needs/goals of the company. So, you want your resume to really showcase your general understanding of them. 
-
-
-
-
-Cover Letter
-
-Skills
-
-Building them
-Selling them
-Your Search
 
 
 # Some Common Gigs
-
 
 #### Some Notes:
 
 Product Management Internships tend to be few and far between. And they tend to be quite selective too. So a good tactic to employ is to get an internship doing something easier to get into first (i.e. software engineering) and then use the contacts you make to help you land the interview. Also, something that helps a lot is referrals. Big companies tend to give preference to them. 
 
 A lot of smaller companies/startups tend to have product managers as well. Often with them, they will not have an established PM Program. But, if you find the right decision maker and sway their opinion, you can actually end up with an internship that way (IMO this is the more effective and true to PM way to do it, especially if big company life is not for you or if you do not get into big companies). 
-
 
 #### Internships:
 
@@ -110,16 +96,15 @@ A lot of smaller companies/startups tend to have product managers as well. Often
 - Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
 - Uber APM - apparently Uber hires Associate Product Managers out of school too....
 
-#### Fellowships:
-
-- Venture for Canada / Venture for America
 
 
+Cover Letter
 
+Skills
 
-
-
-
+Building them
+Selling them
+Your Search
 
 
 
@@ -180,7 +165,9 @@ Companies aren't allowed to ask about your religion, marital status, or race/eth
 In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email, and **maybe** call.  That's all you need!
 Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
 
-Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both.  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
+Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both (high tends to be anything over 3.0/4.0, but some say that high is actually 3.5/4.0).  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.http://thepminterview.com/
+
+There will always be a debate on if GPA is important as a tech major. My take on it is that GPA is important to an extent. There is barely any difference between a 3.9 GPA and a 4.0. But a 2.9 GPA vs a 3.0 GPA is quite different. That being said, do not be discouraged if you do not have a high GPA. There are ways to make yourself look good as a candidate like by being involved in extracurriculars, having side projects or being an entrepreneur of sorts (profit or non-profit). That being said, GPA is something that you only get one shot at. And, bigger companies tend to favour people with higher GPAs (Google is one that is notorious for that). Once you graduate, you cannot go back and redo it. So, you should definitely have a personal understanding of where you feel comfortable with and aim to reach that point. 
 
 # Your Cover Letter
 
@@ -221,6 +208,42 @@ When you're talking to companies and recruiters at career fairs and hackathons a
 Obviously, your skills are what a company is buying from you when they hire you.  So, honing in those skills and presenting them in an effective way is *probably* the most important thing in getting a gig.
 
 ## Building Them
+
+
+
+
+Here are some PM Questions
+
+
+Tell me about yourself -  you need to get this down. A 30 second version. A 1 minute version. A 3 minute version. This will be invaluable.
+What is Product Management - because PM is so ambiguous, you want to be able to demonstrate you understand what it is
+Why Product Management - you need to understand why you are doing PM and convey that reson to others.
+
+Behavioural Questions
+
+They end up boiling down to the following areas
+- Leadership/Influence
+- Teamwork
+- Successes
+- Challenges
+- Mistakes/Failures
+
+Estimation Questions: how many ping pong balls fit in a 747 airplane?
+
+
+
+Design Questions: Design an alarm clock for the blind
+Product Questions:
+1) How would you improve google maps?
+
+Favourite Product?
+
+Common Blend: Teardown - pick a product you like and discuss strengths/weaknesses, the specific industry it is in, how you would perform as a PM there, etc.
+
+
+
+
+Use a table to come up with answers to all of them (thanks Gayle from Cracking the PM Interview for this one)
 
 Chances are, if you've had a data structures and/or algorithms class, you're already going to do pretty well in the technical interviews.  That is, if you can recall the information you learned.
 
@@ -271,6 +294,8 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 - [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
 
 **Online Judging Systems**
+- [The PM Interview](http://thepminterview.com/)
+
 - [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
 - [HackerRank Online Judge](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
@@ -287,16 +312,13 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 
 
 Here's some books that might also be useful.
-- [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818)
+- [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - I highly recommend this one. It was the primary source that I used.
+- [Design of Everyday Things, by Don Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+- [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
+- [Don't Make Me Think, by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 
 
-- [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
-- [Introduction to Algorithms, 3rd Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (also referred as CLRS)](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
-- [Think Complexity, by Allen B. Downey](http://greenteapress.com/complexity/thinkcomplexity.pdf)
-- [Problems on Algorithms, 2nd edition, by Ian Parberry and William Gasarch](http://larc.unt.edu/ian/books/free/poa.pdf)
-- [Data Structures and Algorithms in Java](http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf)
-- [Cracking the Coding Interview, 6th edition, by Gayle Laakmann McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1443719471&sr=8-1&keywords=coding+interview)
 
 Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role.  For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails.  That definitely depends on the company, and what you're both looking for.
 
@@ -406,17 +428,17 @@ In addition to these fellowships, several companies offer special programs for y
 - [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
 - [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
 - [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
-- [Pinterest Engage Software Engineer Intern] (https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
+- [Pinterest Engage Software Engineer Intern](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
 
 # Conclusion
 
 So, cliché parting words.  Work hard, stay healthy, and be yourself!  All of these phrases are said a lot for a reason.  
 
-You are in an incredibly challenging field that forces you to think in ways that many can't even fathom.  You're constantly pushing the limits of logic and creativity, as well as technology itself.  You've made SUCH an exciting choice to pursue this!  It will be hard.  You're going to want to give up at times.  I certainly did.  But, it'll all be worth it in the end when you've finally **earned** the gig of your dreams.
+One of my favourite sayings is "The first step to achieving your dreams is to not be afraid of dreaming them in the first place" (thanks Ilya for that gem).  You are in an incredibly challenging field that forces you to think in ways that many can't even fathom.  You're constantly pushing the limits of logic and creativity, as well as technology itself.  You've made SUCH an exciting choice to pursue this!  It will be hard.  You're going to want to give up at times.  I certainly did.  You may even fail at times (that is ok too as long as you learn from it and use it as fuel to keep moving forward).  But, it'll all be worth it in the end when you've finally **earned** the gig of your dreams.
 
 When I tell you to stay healthy, it's something that you might not consider when you're working until 3AM on a programming problem or trying to survive with 21 credits of technical classes.  We've all been there.  At times, it feels like it's the only way to get ahead.  But guess what: it's not!  Try to have a decent sleep schedule (as in, more than 3 hours a night) and eating schedule, too.  It'll keep you from burning out, and it's proven that it'll keep you alert and focused, which is essential for interview season!
 
-My favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." 
+@Casidoo 's favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." 
 Everyone wants to be great, in their own way.  When I say to "be yourself," I mean that I want you to show people who you are, what you're passionate about, and what you strive to be!  If you keep your personal goals in mind as you work towards them, everything will fall into place, and you can truly **soar** into a great career.
 
 Alright, I've said my piece.  Go get 'em.  I hope that you find this guide useful as you go out to create change and be the best that you can be!
