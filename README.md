@@ -36,14 +36,29 @@ While it is true that majority of product managers do not directly touch code, m
 
 # Your Profile 
 
+As a a tech major, there are three major areas of skills that you want to sell yourself by as a product manger: development, design and business.
 
-As a a tech major, the profile that you want to sells is:
+#### Development (aka Software Engineering)
 
-Dev, Design and Business.
+I will not go too much in the details here, but having a software engineering background is quite useful for someone going into product. Also, because you are a tech major, I am assuming that you have had some programming courses before and know some of the basics. You will not be directly asked coding interview questions (it is highly irregular for you to be asked them), but knowing the process of the creation of software is invaluable. Furthermore, PM's tend to need to go through data, so knowing some SQL is valuable here.
 
-How to hit them:
+**BUT HOW?** Get a software engineering internship somewhere. Go to hackathons and build things. Pick up some side projects along the way.
 
-Business: extracurricular activities are where ths
+#### Design
+
+Depending on the type of product management you are doing, you will have to have an understanding of design. Why? If you are the product manager of an app, you are going to need to have a sense of design to know how to aesthetically make a feature. Beyond that, there is the theory of design (ex: usability heuristics, types of interaction, etc.) as well as the design process. You will need to know how the design process works (defining the problem, coming up with key metrics, brainstorming solutions, determining which one is best to go forward and testing it to see if it's the right one). So, having a background in some form of design is valuable as you will be going through the design process as a PM and a lot of PM interview questions are design oriented.
+
+**BUT HOW?** Take design courses in school in areas such as Human Computer Interaction or Interaction Design. Challenge yourself to do redesigns of common websites/products and document your process online (ex: Spotify, Facbook, GMail, etc). Do web design for free for organizations you care about to get a sense how things are designed. Read design blogs/books.
+
+#### Business
+
+Great product managers are able to understand the market they are in, and the business needs of the company. Using this understanding, they are able to come up with the best solution to move forward. As a result of that, having a good business acumen is a valuable asset. A good product manager is able to understand the competitive landscape and other stakeholders when coming up with the direction of a product. In interviews, this a valuable skill to have too (ex: what are the competitors of a business?).
+
+**BUT HOW?** Get involved out of school with clubs/extracurricular activities. Start a business or a non-profit and get involved with the business side of things.
+
+#### A Note
+
+The best product managers are the ones who are able to build great products. So, to demonstrate that, pick a product and make it a reality. [Here is a repo with some ideas.](https://github.com/vicky002/1000_Projects) If those bore you, make a clone of your favourite app, but make it better. Show that you have what it takes to make great products and then launch them. Not only will this look good as a PM, but you will have a ton of fun doing it and will learn a lot about what it means to be a PM by doing it. 
 
 
 Resume
@@ -67,16 +82,16 @@ Your Search
 
 #### Some Notes:
 
-Product Management Internships tend to be few and far between. And they tend to be quite selective too. So a good tactic to employ is to get an internship doing something easier to get into first (i.e. software engineering) and then use the contacts you make to help you land the interview. Also, something that helps a lot is referrals as big companies tend to give preference to them. 
+Product Management Internships tend to be few and far between. And they tend to be quite selective too. So a good tactic to employ is to get an internship doing something easier to get into first (i.e. software engineering) and then use the contacts you make to help you land the interview. Also, something that helps a lot is referrals. Big companies tend to give preference to them. 
 
-A lot of smaller companies/startups tend to have product managers as well. Often with them, they will not have an established PM Program. But, if you find the right decision maker and sway their opinion, you can actually end up with an internship that way (IMO this is the more effective and true to PM way to do it anyways if big company life is not for you or if you do not get into big companies). 
+A lot of smaller companies/startups tend to have product managers as well. Often with them, they will not have an established PM Program. But, if you find the right decision maker and sway their opinion, you can actually end up with an internship that way (IMO this is the more effective and true to PM way to do it, especially if big company life is not for you or if you do not get into big companies). 
 
 
 #### Internships:
 
 - [Microsoft Explore Program](https://careers.microsoft.com/students/explore) - Internship program aimed at first and second year students by Microsoft. You get a chance to work as a dev and as a pm during the course of a summer. People have been able to do this and convert this to a return offer as a PM intern. 
-- Microsoft Program Management Internship - One of the more straightforward PM internships to get into. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your Microsoft Recruiter (every school tends to have one assigned to them).
-- Google APM Intern - One of the most selective and exclusive PM Internships. Definitely hard to get into. They publish the day that applications open, so apply on that day to maximize your chances.
+- Microsoft Program Management Internship - One of the more straightforward PM internships to get into. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your [Microsoft Recruiter](https://careers.microsoft.com/recruiters) (every school tends to have one assigned to them).
+- [Google APM Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-intern-summer-1600-amphitheatre-pkwy-mountain-view-ca-1029330310&) - One of the most selective and exclusive PM Internships. Definitely hard to get into. They publish the day that applications open, so apply on that day to maximize your chances.
 - LinkedIn Product Management Internship - This one is a newer one, so there are fewer spots (for summer 2017, apparently there is max 10 spots)
 - Yelp Product Management Internships - I personally do not know much about this beyond the fact that it does in fact exist.
 - Data Dog Product Management Internship - same with this
@@ -95,9 +110,9 @@ A lot of smaller companies/startups tend to have product managers as well. Often
 - Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
 - Uber APM - apparently Uber hires Associate Product Managers out of school too....
 
-#### New Grad:
+#### Fellowships:
 
-
+- Venture for Canada / Venture for America
 
 
 
