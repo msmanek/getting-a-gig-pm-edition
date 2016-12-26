@@ -6,6 +6,43 @@ Getting a Gig: A Guide (PM EDITION)
 Hey friends!
 I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a (not so) comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM and a lot of what is on it reflects my personal opinion). 
 
+# Contents
+- Introduction (you read that already)
+- [The Role (aka what PM is)](#the-role-aka-what-pm-is)
+- [Misconceptions (aka what PM is not)](#misconceptions-aka-what-pm-is-not)
+- [Your Profile](#your-profile)
+- [Your Attitude](#your-attitude)
+- [Your Resume](#your-resume)
+- [Your Cover Letter](#your-cover-letter)
+- [Your Search](#your-search)
+  - Events
+  - Networking
+  - Referrals
+  - Cold Calling
+- [Some Common Gigs](#some-common-gigs)
+  - Internships
+  - Fellowships
+  - New Grad
+- [Conclusion](#conclusion)
+
+
+Cassidoo's TOC for reference
+- Introduction (you read that already)
+- [Your Resume](#your-resume)
+- [Your Cover Letter](#your-cover-letter)
+- [Your Attitude](#your-attitude)
+- [Your Skills](#your-skills)
+  - Building Them
+  - Selling Them
+- [Your Search](#your-search)
+  - Events
+  - Networking
+  - Referrals
+  - Cold Calling
+  - Fellowships
+- [Conclusion](#conclusion)
+
+
 
 
 # The Role (aka what PM is)
@@ -62,6 +99,152 @@ Great product managers are able to understand the market they are in, and the bu
 #### A Note
 
 The best product managers are the ones who are able to build great products. So, to demonstrate that, pick a product and make it a reality. [Here is a repo with some ideas.](https://github.com/vicky002/1000_Projects) Or, make a personal website/portfolio, it serves the double purpose of making you look like a stronger candidate and developing your skills. If those bore you, make a clone of your favourite app, but make it better. Show that you have what it takes to make great products and then launch them. Not only will this look good as a PM, but you will have a ton of fun doing it and will learn a lot about what it means to be a PM by doing it. 
+
+
+
+# Your Attitude
+
+When you're internship/job hunting, it's very easy to feel down if you don't hear back from companies, an interview goes poorly, or you start comparing yourself to people.  It's a tough field we're going into.
+
+So.  I won't spend much time on this.  But I want to emphasize something: **You're brilliant.**  You're in this field for a reason.  When your grades aren't awesome or someone gets something that you wanted, don't feel down on yourself.  So many opportunities will come your way if you just keep working hard and refining your skills.
+
+Mark Twain once said, "Comparison is the death of joy."  When you start to compare your skills to others, it's hard to not feel as good about your own, or to get a little too competitive about your work.  Work hard and don't let others get you down.  It's remarkable how significantly that can improve both your work and your interviewing experience!
+
+When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
+
+
+
+# Your Resume
+
+Your resume is your personal summary sheet.  Your resume is the thing that gets your foot in the door.  So, there's a few things you should do (and not do) to make it as awesome as you are.
+
+### Make your name **BIG.**
+Your name has to stand out from everything else, because you want it to be remembered.  Making it the biggest thing on the page is the easiest thing you can do to make that possible.  I've seen soooo many resumes where the name is at the top, but it's just bolded and centered and they expect that to be enough.  It's not.  
+
+### Stick to one page.
+You are in college right now. People more accomplished than you can put their resume in a single page. There is no reason why you should be able to do so too.
+
+### Remove the objective.
+Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them.  Use that space to talk about projects you've done, activities you've done, etc.
+
+### Remove "References available upon request".
+It is implied.
+
+### Keep it to a single page.
+Recruiters are looking for a short summary of you.  They're reading several resumes a day, and if they see something longer than they typically read, they could pass over yours for something more concise!  If you'd like to say more, put a link to a personal website or portfolio for someone to find it.  A resume is a summary, not a tome.
+
+### Remove irrelevant information.
+I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
+When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
+
+### Don't make it a scavenger hunt.
+When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
+
+For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more!
+
+If you decide to put relevant coursework on your resume, **please**, don't just put course numbers.  Nobody knows what that means.  And nobody is going to go to your university's website to find out exactly what CS229 is.  Put down the course titles instead!
+
+And finally, put down your graduation date.  So many students I've seen don't put it on there because they are hiding the fact that they're a freshman, or they're "technically a junior if you count the credits."  That doesn't matter.  Trust me.  Just put down your graduation date so that the company knows how much experience you have, and how soon they can potentially pull you in for full-time.
+
+### Include only certain personal information.
+Companies aren't allowed to ask about your religion, marital status, or race/ethnicity, so you shouldn't include that.  
+
+In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email, and **maybe** call.  That's all you need!
+Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
+
+Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both (high tends to be anything over 3.0/4.0, but some say that high is actually 3.5/4.0).  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
+
+There will always be a debate on if GPA is important as a tech major. My take on it is that GPA is important to an extent. There is barely any difference between a 3.9 GPA and a 4.0. But a 2.9 GPA vs a 3.0 GPA is quite different. That being said, do not be discouraged if you do not have a high GPA. There are ways to make yourself look good as a candidate like by being involved in extracurriculars, having side projects or being an entrepreneur of sorts (profit or non-profit). That being said, GPA is something that you only get one shot at. And, bigger companies tend to favour people with higher GPAs (Google is one that is notorious for that). Once you graduate, you cannot go back and redo it. So, you should definitely have a personal understanding of where you feel comfortable with and aim to reach that point. 
+
+
+
+# Your Cover Letter
+
+Your cover letter is your written sales pitch.  You've got a resume that summarizes everything.  Now you have to write out a more complete, professional description of you and what you can offer a given company.  Here's a sample cover letter to get you started:
+
+
+> Dear _________,
+>
+> I hope your day is going well! My name is _________, and I'm a _________ at _________. I am very interested in working for _________ next _________. Your commitment to _________ and _________ that I saw on the website inspired me! The products you build and the values you stand for make _________ seem like an ideal workplace for me.
+A little about me, I [insert relevant work experience, extracurriculars, and projects here]. I think these experiences would make me a great candidate for you.
+>
+> Please let me know if there's anything else you need from me. I look forward to hearing from you! I can be reached at _________ and _________.
+>
+> Best regards,
+> _________
+
+Now, remember, this is just a sample.  You can write a cover letter in any format you'd like.  But, you should be sure to include the following:
+
+- **Who** - Who you are.  Easy enough.
+- **Where** - Where you're coming from.
+- **Why** - Why you're interested in this company, and show that you researched them.
+- **What** - What you can bring to the table.
+- **When** - When you're available to start, and when they can contact you.
+- **How** - How they can reach you.
+
+
+
+# Your Search
+
+You have a resume and cover letter in hand, and you have the skills to make anyone want you.  Now, you just have to find the right gig for you.
+
+## Events
+
+When you're on the hunt for a great internship or first job, the events you go to can really set you apart, and will help you meet people that could potentially help you in the long run.
+
+The biggies that you will definitely run into are:
+- Hackathons
+- Meetups
+- Conferences
+- Career Fairs
+
+So, how do you find these events?  They're happening all the time, you just need to know where to look.  Firstly, ask people in the field.  Talk to a mentor, a fellow student, a professor, a colleague... anyone could come through for you!  I remember my first tech event I went to in college was because I ran into a guy that I met orientation day.  And now he and I are coworkers.  Fancy that.  Anyway, people can get you very far.
+
+Otherwise, when people don't work, we always have the glorious internet leading the way.  There's so many resources out there I definitely can't list them all.  So I'll list just a few.
+- Your School - Yeah, this is kind of an easy shot, but not a lot of people consider their schools as an event generator, when they should.  Go on to your university's website and find the career fair, find a seminar, find a company presentation, find something that will help you learn and meet people.  You'll probably find a lot of options!
+- [Meetup](http://www.meetup.com) - Meetup is a great place to find groups of people who are interested in the same things you are, who meet regularly.  Look for engineering meetups that are hosted **at** companies.  You'll get to see an office, and meet people who actually work there (in addition to those who might work at other organizations).
+- [Eventbrite](https://www.eventbrite.com/) - Eventbrite is best for finding events that aren't recurring.  You can often find workshops, networking events, parties, and classes there.  I tend to just search for the term, "tech" or "computer" and the results simply flow.  Like a babbling brook.  Or something.
+- [Major League Hacking](https://mlh.io/) - MLH provides a fairly thorough schedule of university hackathons every semester.  Most of the events on their schedule provide travel reimbursement, but there's so many that you'll likely find one near you!
+- [Lanyrd](http://lanyrd.com/) - Lanyrd is a "social conference directory" that is full of conferences based on almost any topic.  Follow your favorite speakers or search for a particular language or technology, and you'll be set.
+
+Like I mentioned before, there's a lot of resources out there for finding events.  Now that you have places to go to, what do you do there?
+WHAT A CLEVER SEGUE.
+
+## Networking
+
+The whole point of going to events (besides learning something, of course) is to network.  Meeting and maintaining relationships with people in this industry is essential.
+
+So, how **do** you just network with people?  How do you make it as natural as eating pie on Pi Day?  I'll show you, Bert.
+
+First of all, don't think of it as networking.  You don't want to get the heebie-jeebies.  Think of it as meeting people who like what you like.  When you're at these events, you'll occasionally see groups of people staying in their own groups, not often reaching out to others.  You're not going to do that.  You're going to be a professional, social butterfly.
+
+Follow generally these steps (as casually or formally as the event calls for) when networking:
+
+1. Introduce yourself.  This seems obvious, but you'd be surprised how often people just sort of slide into a conversation without ever actually providing anyone with their name or title.  Go up to people and tell them who you are.
+
+2. Make small talk about tech.  Again, an obvious tip, but important.  You want to know what this person's skills are, and you want them to know yours.  Someday, they might be looking for someone to help them on a project in a language that you know, or vice-versa.  Get the important details out in the open about each other so that not only you can remember each other, but you can help each other out in the future.  And don't forget to have fun with it!
+
+3. Exchange contact information.  If you have no way of finding the person you're talking to again, and they don't have a way of finding you, then you're just wasting a potentially valuable connection.  Whether you give them a business card or an email address, or even a Twitter handle, keep that information!
+
+4. Follow-up.  This is probably **the most important thing I will tell you in this whole guide.**  Hence the bold letters.  So pretty.  Anyway.  Following up is the guaranteed way of leaving an impression with someone.  Whether you email or tweet or InMail or Facebook message or pigeon mail, just sending a simple, "it was nice to meet you!" message is absolutely **vital** when it comes to networking.  I've actually heard stories of people changing their mind about hiring someone based on a follow-up message.  And following up doesn't stop at the "nice to meet you" message.  At some point down the line, it's great practice to send a "how are you doing?" message to someone you're interested in maintaining a relationship with.  For all three of my mentors that I had in college (and to this day), the way we built our relationship was through these sorts of follow-up messages.  **Do them.**
+
+Networking is about building relationships, and what you can do with those relationships is up to you.  But we're talking about getting a job.  So let's move on to one of the best ways of getting one, with these relationships.
+
+## Referrals
+
+Referrals are your in.  If you can get a referral from an employee of the company you're applying for, that's money.  It pushes you towards the top of the pile of resumes that they're getting every single day.  Using the relationships you've built from networking, all it takes is a simple ask!  You can get a referral from current employees, former ones, interns, former interns, friends of engineers, acquaintances of recruiters... really, anyone who is connected with the company.  If they have a job posting up for a given position, they are looking around for engineers just as much as you're looking around for a great gig!  The company knows that they're going to be speaking with someone potentially really good (because they were recommended by someone trusted), and you get to speak to a company for whom you want to work.  Having a referral is a win for both parties.  
+
+Asking for a referral really depends on your relationship with the referrer.  If you know them in a strictly business setting, you might want to send them a more professional request.  But if you know the referrer pretty well, chances are you know how to ask for a favor.  One thing that you must remember though is to, again, **follow up**!  If you haven't heard back from your referrer, reach out and check on your status.  If they let you know that you're in the system, be gracious and take them for coffee or something.  Common courtesy.  You've got this.
+
+## Cold Calling
+
+A lot of people are fans of cold calling, which is making unsolicited contact with a person at a company and hoping for something good to come of it.  I admit, I'm not one of those people.  Seems spammy.  But, I'll tell you about some ways to do that anyway, to make your cold calls as potentially successful as possible.
+
+First of all, you should have an email for someone at the company you're looking at.  You could ask around your network for contact information for a given person, or you could just go out on a limb and [test some emails to see if they're valid](http://mailtester.com/).  A lot of companies have fairly standard email address templates (firstname.lastname@company.com, for example), so you can just keep sending a few until you find a legitimate one.  If you need names to test out, you can scour LinkedIn or the company's website to try and find something that works.
+
+Once you have a legitimate email on your hands, get to work on making a personalized message to them.  Emphasis on the personal.  When you're cold calling, you can't have just any standard email template where you stick in the company's name where it fits.  You have to clearly let the person know why you're writing, from where you got their information (if it's not just a random guess, of course), why you would be a good fit for the company (where you will **sell** those awesome skills of yours), and why you think the company is great.  Essentially, you're writing a glorified cover letter.
+
+When the email has been sent, you're done.  If you haven't heard back in a week or two, send a follow-up, but if they still haven't replied after that, chances are they won't reply at all.  And that's okay.  It happens.  That's the territory when it comes to cold calling.
 
 
 
@@ -134,91 +317,6 @@ Selling them
 Your Search
 
 
-
-
-
-
-# Contents
-- Introduction (you read that already)
-- [Your Resume](#your-resume)
-- [Your Cover Letter](#your-cover-letter)
-- [Your Attitude](#your-attitude)
-- [Your Skills](#your-skills)
-  - Building Them
-  - Selling Them
-- [Your Search](#your-search)
-  - Events
-  - Networking
-  - Referrals
-  - Cold Calling
-  - Fellowships
-- [Conclusion](#conclusion)
-
-# Your Resume
-
-Your resume is your personal summary sheet.  Your resume is the thing that gets your foot in the door.  So, there's a few things you should do (and not do) to make it as awesome as you are.
-
-### Make your name **BIG.**
-Your name has to stand out from everything else, because you want it to be remembered.  Making it the biggest thing on the page is the easiest thing you can do to make that possible.  I've seen soooo many resumes where the name is at the top, but it's just bolded and centered and they expect that to be enough.  It's not.  
-
-### Stick to one page.
-You are in college right now. People more accomplished than you can put their resume in a single page. There is no reason why you should be able to do so too.
-
-### Remove the objective.
-Nobody looks at the objective.  Nobody.  I personally spoke to a bunch of recruiters from various companies and they all said that they never look at them.  Use that space to talk about projects you've done, activities you've done, etc.
-
-### Remove "References available upon request".
-It is implied.
-
-### Keep it to a single page.
-Recruiters are looking for a short summary of you.  They're reading several resumes a day, and if they see something longer than they typically read, they could pass over yours for something more concise!  If you'd like to say more, put a link to a personal website or portfolio for someone to find it.  A resume is a summary, not a tome.
-
-### Remove irrelevant information.
-I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
-When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
-
-### Don't make it a scavenger hunt.
-When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
-
-For example, if you have online profiles like GitHub, LinkedIn, Twitter, or even your own personal website, put it on your resume.  Don't make them have to search long and hard for you online if they want to know more!
-
-If you decide to put relevant coursework on your resume, **please**, don't just put course numbers.  Nobody knows what that means.  And nobody is going to go to your university's website to find out exactly what CS229 is.  Put down the course titles instead!
-
-And finally, put down your graduation date.  So many students I've seen don't put it on there because they are hiding the fact that they're a freshman, or they're "technically a junior if you count the credits."  That doesn't matter.  Trust me.  Just put down your graduation date so that the company knows how much experience you have, and how soon they can potentially pull you in for full-time.
-
-### Include only certain personal information.
-Companies aren't allowed to ask about your religion, marital status, or race/ethnicity, so you shouldn't include that.  
-
-In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email, and **maybe** call.  That's all you need!
-Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
-
-Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both (high tends to be anything over 3.0/4.0, but some say that high is actually 3.5/4.0).  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
-
-There will always be a debate on if GPA is important as a tech major. My take on it is that GPA is important to an extent. There is barely any difference between a 3.9 GPA and a 4.0. But a 2.9 GPA vs a 3.0 GPA is quite different. That being said, do not be discouraged if you do not have a high GPA. There are ways to make yourself look good as a candidate like by being involved in extracurriculars, having side projects or being an entrepreneur of sorts (profit or non-profit). That being said, GPA is something that you only get one shot at. And, bigger companies tend to favour people with higher GPAs (Google is one that is notorious for that). Once you graduate, you cannot go back and redo it. So, you should definitely have a personal understanding of where you feel comfortable with and aim to reach that point. 
-
-# Your Cover Letter
-
-Your cover letter is your written sales pitch.  You've got a resume that summarizes everything.  Now you have to write out a more complete, professional description of you and what you can offer a given company.  Here's a sample cover letter to get you started:
-
-
-> Dear _________,
->
-> I hope your day is going well! My name is _________, and I'm a _________ at _________. I am very interested in working for _________ next _________. Your commitment to _________ and _________ that I saw on the website inspired me! The products you build and the values you stand for make _________ seem like an ideal workplace for me.
-A little about me, I [insert relevant work experience, extracurriculars, and projects here]. I think these experiences would make me a great candidate for you.
->
-> Please let me know if there's anything else you need from me. I look forward to hearing from you! I can be reached at _________ and _________.
->
-> Best regards,
-> _________
-
-Now, remember, this is just a sample.  You can write a cover letter in any format you'd like.  But, you should be sure to include the following:
-
-- **Who** - Who you are.  Easy enough.
-- **Where** - Where you're coming from.
-- **Why** - Why you're interested in this company, and show that you researched them.
-- **What** - What you can bring to the table.
-- **When** - When you're available to start, and when they can contact you.
-- **How** - How they can reach you.
 
 # Your Attitude
 
@@ -370,67 +468,6 @@ When you're talking to companies about specific things you've done, make sure th
 
 Your skills are something that you have, and the reason why you have them is because you've used them in some way.  All you have to do to prove yourself is to explain yourself!  No need to go overboard and brag.  Just be honest, and confident.
 
-# Your Search
-
-You have a resume and cover letter in hand, and you have the skills to make anyone want you.  Now, you just have to find the right gig for you.
-
-## Events
-
-When you're on the hunt for a great internship or first job, the events you go to can really set you apart, and will help you meet people that could potentially help you in the long run.
-
-The biggies that you will definitely run into are:
-- Hackathons
-- Meetups
-- Conferences
-- Career Fairs
-
-So, how do you find these events?  They're happening all the time, you just need to know where to look.  Firstly, ask people in the field.  Talk to a mentor, a fellow student, a professor, a colleague... anyone could come through for you!  I remember my first tech event I went to in college was because I ran into a guy that I met orientation day.  And now he and I are coworkers.  Fancy that.  Anyway, people can get you very far.
-
-Otherwise, when people don't work, we always have the glorious internet leading the way.  There's so many resources out there I definitely can't list them all.  So I'll list just a few.
-- Your School - Yeah, this is kind of an easy shot, but not a lot of people consider their schools as an event generator, when they should.  Go on to your university's website and find the career fair, find a seminar, find a company presentation, find something that will help you learn and meet people.  You'll probably find a lot of options!
-- [Meetup](http://www.meetup.com) - Meetup is a great place to find groups of people who are interested in the same things you are, who meet regularly.  Look for engineering meetups that are hosted **at** companies.  You'll get to see an office, and meet people who actually work there (in addition to those who might work at other organizations).
-- [Eventbrite](https://www.eventbrite.com/) - Eventbrite is best for finding events that aren't recurring.  You can often find workshops, networking events, parties, and classes there.  I tend to just search for the term, "tech" or "computer" and the results simply flow.  Like a babbling brook.  Or something.
-- [Major League Hacking](https://mlh.io/) - MLH provides a fairly thorough schedule of university hackathons every semester.  Most of the events on their schedule provide travel reimbursement, but there's so many that you'll likely find one near you!
-- [Lanyrd](http://lanyrd.com/) - Lanyrd is a "social conference directory" that is full of conferences based on almost any topic.  Follow your favorite speakers or search for a particular language or technology, and you'll be set.
-
-Like I mentioned before, there's a lot of resources out there for finding events.  Now that you have places to go to, what do you do there?
-WHAT A CLEVER SEGUE.
-
-## Networking
-
-The whole point of going to events (besides learning something, of course) is to network.  Meeting and maintaining relationships with people in this industry is essential.
-
-So, how **do** you just network with people?  How do you make it as natural as eating pie on Pi Day?  I'll show you, Bert.
-
-First of all, don't think of it as networking.  You don't want to get the heebie-jeebies.  Think of it as meeting people who like what you like.  When you're at these events, you'll occasionally see groups of people staying in their own groups, not often reaching out to others.  You're not going to do that.  You're going to be a professional, social butterfly.
-
-Follow generally these steps (as casually or formally as the event calls for) when networking:
-
-1. Introduce yourself.  This seems obvious, but you'd be surprised how often people just sort of slide into a conversation without ever actually providing anyone with their name or title.  Go up to people and tell them who you are.
-
-2. Make small talk about tech.  Again, an obvious tip, but important.  You want to know what this person's skills are, and you want them to know yours.  Someday, they might be looking for someone to help them on a project in a language that you know, or vice-versa.  Get the important details out in the open about each other so that not only you can remember each other, but you can help each other out in the future.  And don't forget to have fun with it!
-
-3. Exchange contact information.  If you have no way of finding the person you're talking to again, and they don't have a way of finding you, then you're just wasting a potentially valuable connection.  Whether you give them a business card or an email address, or even a Twitter handle, keep that information!
-
-4. Follow-up.  This is probably **the most important thing I will tell you in this whole guide.**  Hence the bold letters.  So pretty.  Anyway.  Following up is the guaranteed way of leaving an impression with someone.  Whether you email or tweet or InMail or Facebook message or pigeon mail, just sending a simple, "it was nice to meet you!" message is absolutely **vital** when it comes to networking.  I've actually heard stories of people changing their mind about hiring someone based on a follow-up message.  And following up doesn't stop at the "nice to meet you" message.  At some point down the line, it's great practice to send a "how are you doing?" message to someone you're interested in maintaining a relationship with.  For all three of my mentors that I had in college (and to this day), the way we built our relationship was through these sorts of follow-up messages.  **Do them.**
-
-Networking is about building relationships, and what you can do with those relationships is up to you.  But we're talking about getting a job.  So let's move on to one of the best ways of getting one, with these relationships.
-
-## Referrals
-
-Referrals are your in.  If you can get a referral from an employee of the company you're applying for, that's money.  It pushes you towards the top of the pile of resumes that they're getting every single day.  Using the relationships you've built from networking, all it takes is a simple ask!  You can get a referral from current employees, former ones, interns, former interns, friends of engineers, acquaintances of recruiters... really, anyone who is connected with the company.  If they have a job posting up for a given position, they are looking around for engineers just as much as you're looking around for a great gig!  The company knows that they're going to be speaking with someone potentially really good (because they were recommended by someone trusted), and you get to speak to a company for whom you want to work.  Having a referral is a win for both parties.  
-
-Asking for a referral really depends on your relationship with the referrer.  If you know them in a strictly business setting, you might want to send them a more professional request.  But if you know the referrer pretty well, chances are you know how to ask for a favor.  One thing that you must remember though is to, again, **follow up**!  If you haven't heard back from your referrer, reach out and check on your status.  If they let you know that you're in the system, be gracious and take them for coffee or something.  Common courtesy.  You've got this.
-
-## Cold Calling
-
-A lot of people are fans of cold calling, which is making unsolicited contact with a person at a company and hoping for something good to come of it.  I admit, I'm not one of those people.  Seems spammy.  But, I'll tell you about some ways to do that anyway, to make your cold calls as potentially successful as possible.
-
-First of all, you should have an email for someone at the company you're looking at.  You could ask around your network for contact information for a given person, or you could just go out on a limb and [test some emails to see if they're valid](http://mailtester.com/).  A lot of companies have fairly standard email address templates (firstname.lastname@company.com, for example), so you can just keep sending a few until you find a legitimate one.  If you need names to test out, you can scour LinkedIn or the company's website to try and find something that works.
-
-Once you have a legitimate email on your hands, get to work on making a personalized message to them.  Emphasis on the personal.  When you're cold calling, you can't have just any standard email template where you stick in the company's name where it fits.  You have to clearly let the person know why you're writing, from where you got their information (if it's not just a random guess, of course), why you would be a good fit for the company (where you will **sell** those awesome skills of yours), and why you think the company is great.  Essentially, you're writing a glorified cover letter.
-
-When the email has been sent, you're done.  If you haven't heard back in a week or two, send a follow-up, but if they still haven't replied after that, chances are they won't reply at all.  And that's okay.  It happens.  That's the territory when it comes to cold calling.
 
 ## Fellowships
 Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
