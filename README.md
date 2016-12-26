@@ -4,7 +4,7 @@ Getting a Gig: A Guide (PM EDITION)
 # Introduction
 
 Hey friends!
-I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a (not so) comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM). 
+I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a (not so) comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM and a lot of what is on it reflects my personal opinion). 
 
 
 
@@ -75,16 +75,43 @@ A lot of smaller companies/startups tend to have product managers as well. Often
 
 #### Internships:
 
-- [Microsoft Explore Program](https://careers.microsoft.com/students/explore) - Internship program aimed at first and second year students by Microsoft. You get a chance to work as a dev and as a pm during the course of a summer. People have been able to do this and convert this to a return offer as a PM intern. 
-- Microsoft Program Management Internship - One of the more straightforward PM internships to get into. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your [Microsoft Recruiter](https://careers.microsoft.com/recruiters) (every school tends to have one assigned to them).
+- Microsoft Program Management Internship - One of the more straightforward PM internships to get into. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your [Microsoft Recruiter](https://careers.microsoft.com/recruiters) (every school tends to have one assigned to them). Microsoft tends to lump this up with the Software Engineering Internship, and the applications tend to be the same as the application as the software engineering internship.
 - [Google APM Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-intern-summer-1600-amphitheatre-pkwy-mountain-view-ca-1029330310&) - One of the most selective and exclusive PM Internships. Definitely hard to get into. They publish the day that applications open, so apply on that day to maximize your chances.
-- LinkedIn Product Management Internship - This one is a newer one, so there are fewer spots (for summer 2017, apparently there is max 10 spots)
-- Yelp Product Management Internships - I personally do not know much about this beyond the fact that it does in fact exist.
-- Data Dog Product Management Internship - same with this
-- Twitch Product Management Internship - same with this
-- Lyft Product Management Internship - same with this
-- Redfin Product Management Internship - same with this
+- [LinkedIn Product Management Internship](https://studentcareers.linkedin.com/internships) - This one is a newer one, so there are fewer spots (for summer 2017, apparently there is max 10 spots)
+- [Yelp Product Management Internships](https://www.yelp.com/careers/job-openings/8ac4fd83-36be-4018-90a9-ca565a5c9196) - I personally do not know much about this beyond the fact that it does in fact exist.
+- [Data Dog Product Management Internship](https://www.datadoghq.com/careers/) - same with this
+- [Twitch Product Management Internship](https://www.twitch.tv/jobs) - same with this
+- [Lyft Product Management Internship](https://www.lyft.com/jobs/product-management-intern-2017) - same with this
+- [Redfin Product Management Internship](http://www.redfin.com/about/jobs/description/product-manager-intern-seattle-oWEN3fwa) - same with this
 - Eventmobi - a startup in Toronto, Canada that has previously hired PM interns
+
+
+#### Fellowships
+
+Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program. Some fellowships exist where you can actually get a gig as a product manager (ex: KPCB's product fellowship). They tend to be rather selective, though. (This can be a good stepping stone to get into product)
+
+Here's a list of some example fellowship programs.  This is by no means a complete list (feel free to send a pull request or file an issue if there's another you'd like to be added), but it should get you started!
+
+- [Cansbridge Fellowship](http://www.cansbridgefellowship.com/)
+- [CODE2040](http://code2040.org/)
+- [FirstMark Elite](http://firstmarkelite.com/)
+- [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
+- [hackNY Fellows](http://apply.hackny.org/)
+- [Knight-Mozilla Fellows](https://opennews.org/what/fellowships/info/)
+- [KPCB Fellows](http://kpcbfellows.com/)
+- [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
+- [PennApps Fellows](http://www.pennappsfellows.com/)
+- [True Entrepreneur Corps](http://www.trueventures.com/tec/)
+
+In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
+
+- [Microsoft Explore](http://careers.microsoft.com/careers/en/us/university-programs.aspx) (Cassidoo did this one and she says that this program is AWESOME. Also, people have done this and then converted it to an opportunity to intern as a PM at Microsoft the following year)
+- [Google Engineering Practicum](https://www.google.com/jobs/students/engpracticum)
+- [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
+- [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
+- [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
+- [Pinterest Engage Software Engineer Intern](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
+
 
 #### New Grad:
 
@@ -92,7 +119,7 @@ A lot of smaller companies/startups tend to have product managers as well. Often
 - [Facebook RPM](http://fbrpms.com/) - This is a rotational program that spans 18 months, where you get the opportunity to spend 6 months as a product manager in various functional areas in Facebook.
 - [Google APM](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-university-1600-amphitheatre-pkwy-mountain-view-ca-1029330389&) - Google's version of a rotational product management program started by Marissa Meyer. [This Quora post has a bunch of info on it.](https://www.quora.com/What-is-Googles-APM-program)
 - [Twitter APM](http://www.twitterapm.com/) - This is a two year program where you go through two rotations. 
-- Zynga RPM - apparently Zynga does the whole PM rotation thing too...
+- [Zynga RPM](https://www.zynga.com/careers/positions/new-grad-full-time-rotational-product-manager-ur-2017) - apparently Zynga does the whole PM rotation thing too...
 - Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
 - Uber APM - apparently Uber hires Associate Product Managers out of school too....
 
@@ -165,7 +192,7 @@ Companies aren't allowed to ask about your religion, marital status, or race/eth
 In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email, and **maybe** call.  That's all you need!
 Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
 
-Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both (high tends to be anything over 3.0/4.0, but some say that high is actually 3.5/4.0).  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.http://thepminterview.com/
+Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both (high tends to be anything over 3.0/4.0, but some say that high is actually 3.5/4.0).  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
 
 There will always be a debate on if GPA is important as a tech major. My take on it is that GPA is important to an extent. There is barely any difference between a 3.9 GPA and a 4.0. But a 2.9 GPA vs a 3.0 GPA is quite different. That being said, do not be discouraged if you do not have a high GPA. There are ways to make yourself look good as a candidate like by being involved in extracurriculars, having side projects or being an entrepreneur of sorts (profit or non-profit). That being said, GPA is something that you only get one shot at. And, bigger companies tend to favour people with higher GPAs (Google is one that is notorious for that). Once you graduate, you cannot go back and redo it. So, you should definitely have a personal understanding of where you feel comfortable with and aim to reach that point. 
 
@@ -226,7 +253,7 @@ They end up boiling down to the following areas
 - Teamwork
 - Successes
 - Challenges
-- Mistakes/Failures
+- Mistakes/Failures 
 
 Estimation Questions: how many ping pong balls fit in a 747 airplane?
 
@@ -308,7 +335,7 @@ This guide isn't for teaching you these skills.  But there are several guides, p
 
 
 **Online Communities**
-- [HH Product Management Facebook Group]()
+- [HH Product Management Facebook Group](https://www.facebook.com/groups/hhProductManagement/)
 
 
 Here's some books that might also be useful.
