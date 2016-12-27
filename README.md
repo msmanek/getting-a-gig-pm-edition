@@ -4,9 +4,9 @@ Getting a Gig: A Guide (PM EDITION)
 # Introduction
 
 Hey friends!
-I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I will have done 2 engineering internships and will be starting an APM internship come September. You can do that, too. Because you're great.
+I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I will have completed 2 software engineering internships and will be starting a PM internship come September. You can do that, too. Because you're great.
 
-**Please note:** I left a lot of the original material from getting-a-gig because it is still relevant to PM. Also, a lot of what is here reflects my personal opinion on PM as a whole. 
+**Please note:** I left a lot of the original material from getting-a-gig (attitude, resume, cover letter, search and conclusion sections) because it is still relevant to PM. Also, a lot of what is here reflects my personal opinion on PM as a whole. 
 
 # Contents
 
@@ -58,7 +58,7 @@ While it is true that product managers do some project management, the role of t
 
 ### Misconception 3: Product Managers are Non-Technical
 
-While it is true that majority of product managers do not directly touch code, many do in fact come from a technical background. Product Managers need to understand how the development process works and how to communicate with developers. Having experience directly in the development process as a dev, hence, is valuable to have as a product manager. But technical backgrounds are not the only backgrounds that product managers come from. [Here is a great blogpost by Sachin Rekhi on the various routes one can take to become a product manager.](http://www.sachinrekhi.com/5-paths-to-your-first-product-manager-role)
+While it is true that majority of product managers do not directly touch code, many do come from a technical background. Product Managers need to understand how the development process works and how to communicate with developers. Having experience directly in the development process as a dev, hence, is valuable to have as a product manager. But technical backgrounds are not the only backgrounds that product managers come from. [Here is a great blogpost by Sachin Rekhi on the various routes one can take to become a product manager.](http://www.sachinrekhi.com/5-paths-to-your-first-product-manager-role)
 
 
 
@@ -68,7 +68,7 @@ As a a tech major, there are three major areas of skills that you want to posess
 
 ### Development (aka Software Engineering)
 
-I will not go too much in the details here, but having a software engineering background is quite useful for someone going into product. Also, because you are a tech major, I am assuming that you have had some programming courses before and know some of the basics. You will not be directly asked coding interview questions (it is highly irregular for you to be asked them), but knowing the process of the creation of software is invaluable. Furthermore, PM's tend to need to go through data, so knowing some SQL is valuable here.
+I will not go too much in the details here, but having a software engineering background is quite useful for someone going into product. Also, because you are a tech major, I am assuming that you have had some programming courses before and know some of the basics. You will not be directly asked coding interview questions (it is highly irregular for you to be asked them), but knowing the process of the creation of software is invaluable. Furthermore, PM's tend to need to go through data, so knowing some SQL is valuable.
 
 *BUT HOW?* Get a software engineering internship somewhere. Go to hackathons and build things. Pick up some side projects along the way.
 
@@ -96,7 +96,7 @@ Obviously, your skills are what a company is buying from you when they hire you.
 
 ## Building Them
 
-Unlike software engineering, product management interviews tend to be more free form. Part of the reason why is because the role is much less technical and more "soft". This does not mean that product management interviews are easier, it just means that the skillset you need to develop is different. Product interviews can be broken down into the following categories:
+Unlike software engineering, product management in general is more free form. Part of the reason why is because the role is much less technical and more "soft". This does not mean that getting into product management is easier, it just means that the skillset you need to develop is different. Product interviews and skills can be broken down into the following categories:
 
 ### Behavioural Questions
 
@@ -108,7 +108,7 @@ Behavioural questions are your time to tell interviewers what you have done. Rem
 - Challenges
 - Mistakes/Failures 
 
-Make a table to come up with answers to all of them (thanks Gayle from Cracking the PM Interview for this one).
+Make a table to come up with answers to all of them (thanks to Cracking the PM Interview for this one).
 
 ### Estimation Questions
 
@@ -130,7 +130,9 @@ These are arguably the most important questions. They fall into 3 common categor
 2. Improving a product (ex: how would you improve Instagram?)
 3. Favourite product (ex: what is your favourite product and why?)
 
-A common question to ask that is a combination of them is the product teardown question, where you are asked to pick your favourite product, to pull it out (like on your phone or something) and then discuss it with your interviewer. This can take various forms/routes but some common topics include: talking about what you like about the product, what you do not like, what you would do if you were the product manager for it and the competitive landscape is like. 
+The way you answer these questions is by going through the design process. I will not divulge into the details here, but a good place to learn more would be Cracking the PM Interview (see more resources in the [Where to Build Them section](#where-to-build-them)).
+
+A common question that is asked is the the product teardown question. You are asked to pick your favourite product, to pull it out (like on your phone or something) and then discuss it with your interviewer. This can take various forms/routes but some common topics include: talking about what you like about the product, what you do not like, what you would do if you were the product manager for it and the competitive landscape is like. 
 
 ### Misc Questions
 
@@ -160,20 +162,18 @@ This guide isn't for teaching you these skills.  But there are several (more com
 
 Here's some books that might also be useful.
 - [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - I highly recommend this one. It was the primary source that I used.
-- [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and comes well recommended
+- [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and comes well recommended (thanks Fernando Delagato)
 - [Design of Everyday Things, by Don Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
 - [Don't Make Me Think, by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
-
 Typically for an internship or your first job, PM questions will not be super specific, but it is good practice to know the industry of the company you are applying for and know it well. So, do research on the company and the types of products they make and what you would like to do as a PM there.
+
 
 
 ## Selling Them
 
 When you're actively emailing and speaking with recruiters, they're going to ask you a lot of questions that are just checkboxes for what they're looking for in terms of skills.
-
-If you've written anything in a language before, **put it on your resume**.  A lot of companies have parsers that look for specific things that, again, will put a tick on those checkboxes before putting you through to the next round of review.  Now, if you've only ever done "Hello, world!" in Python, don't say that you're a Python ninja or whatever.  You don't want to be thrown into an interview that will only hurt your self-confidence.  Speaking from experience.  Trust me.
 
 When a recruiter or engineer is asking you about a certain project/extracurricular activity you've done, be as specific as possible.  Tell them **exactly** what you did on that particular project (or internship or what have you).  Tell them how much you contributed, what metrics you used to measure your success, what was the outcome of the project, etc. etc.
 
