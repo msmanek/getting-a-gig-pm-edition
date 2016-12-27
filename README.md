@@ -7,45 +7,27 @@ Hey friends!
 I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a (not so) comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM and a lot of what is on it reflects my personal opinion). 
 
 # Contents
+
 - Introduction (you read that already)
 - [The Role (aka what PM is)](#the-role-aka-what-pm-is)
 - [Misconceptions (aka what PM is not)](#misconceptions-aka-what-pm-is-not)
 - [Your Profile](#your-profile)
 - [Your Skills](#your-skills)
-  - Building Them
-  - Selling Them
+  - [Building Them](#building-them)
+  - [Selling Them](#selling-them)
 - [Your Attitude](#your-attitude)
 - [Your Resume](#your-resume)
 - [Your Cover Letter](#your-cover-letter)
 - [Your Search](#your-search)
-  - Events
-  - Networking
-  - Referrals
-  - Cold Calling
+  - [Events](#events)
+  - [Networking](#networking)
+  - [Referrals](#referrals)
+  - [Cold Calling](#cold-calling)
 - [Some Common Gigs](#some-common-gigs)
-  - Internships
-  - Fellowships
-  - New Grad
+  - [Internships](#internships)
+  - [Fellowships](#fellowships)
+  - [New Grad](#new-grad)
 - [Conclusion](#conclusion)
-
-
-Cassidoo's TOC for reference
-- Introduction (you read that already)
-- [Your Resume](#your-resume)
-- [Your Cover Letter](#your-cover-letter)
-- [Your Attitude](#your-attitude)
-- [Your Skills](#your-skills)
-  - Building Them
-  - Selling Them
-- [Your Search](#your-search)
-  - Events
-  - Networking
-  - Referrals
-  - Cold Calling
-  - Fellowships
-- [Conclusion](#conclusion)
-
-
 
 
 # The Role (aka what PM is)
@@ -352,18 +334,6 @@ When the email has been sent, you're done.  If you haven't heard back in a week 
 
 
 
-### New Grad:
-
-- [Yahoo APM](https://careers.yahoo.com/us/students/content/1729) - one of the first associate product manager programs...
-- [Facebook RPM](http://fbrpms.com/) - This is a rotational program that spans 18 months, where you get the opportunity to spend 6 months as a product manager in various functional areas in Facebook.
-- [Google APM](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-university-1600-amphitheatre-pkwy-mountain-view-ca-1029330389&) - Google's version of a rotational product management program started by Marissa Meyer. [This Quora post has a bunch of info on it.](https://www.quora.com/What-is-Googles-APM-program)
-- [Twitter APM](http://www.twitterapm.com/) - This is a two year program where you go through two rotations. 
-- [Zynga RPM](https://www.zynga.com/careers/positions/new-grad-full-time-rotational-product-manager-ur-2017) - apparently Zynga does the whole PM rotation thing too...
-- Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
-- Uber APM - apparently Uber hires Associate Product Managers out of school too....
-
-
-
 # Your Attitude
 
 When you're internship/job hunting, it's very easy to feel down if you don't hear back from companies, an interview goes poorly, or you start comparing yourself to people.  It's a tough field we're going into.
@@ -422,6 +392,16 @@ In addition to these fellowships, several companies offer special programs for y
 - [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
 - [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
 - [Pinterest Engage Software Engineer Intern](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
+
+New Grad:
+
+- [Yahoo APM](https://careers.yahoo.com/us/students/content/1729) - one of the first associate product manager programs...
+- [Facebook RPM](http://fbrpms.com/) - This is a rotational program that spans 18 months, where you get the opportunity to spend 6 months as a product manager in various functional areas in Facebook.
+- [Google APM](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-university-1600-amphitheatre-pkwy-mountain-view-ca-1029330389&) - Google's version of a rotational product management program started by Marissa Meyer. [This Quora post has a bunch of info on it.](https://www.quora.com/What-is-Googles-APM-program)
+- [Twitter APM](http://www.twitterapm.com/) - This is a two year program where you go through two rotations. 
+- [Zynga RPM](https://www.zynga.com/careers/positions/new-grad-full-time-rotational-product-manager-ur-2017) - apparently Zynga does the whole PM rotation thing too...
+- Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
+- Uber APM - apparently Uber hires Associate Product Managers out of school too....
 
 
 
