@@ -11,6 +11,7 @@ I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting
 - [The Role (aka what PM is)](#the-role-aka-what-pm-is)
 - [Misconceptions (aka what PM is not)](#misconceptions-aka-what-pm-is-not)
 - [Your Profile](#your-profile)
+- [Your Skills](#your-skills)
 - [Your Attitude](#your-attitude)
 - [Your Resume](#your-resume)
 - [Your Cover Letter](#your-cover-letter)
@@ -55,6 +56,8 @@ Here are some good primers by people smarter than me:
 
 - [Sachin Rekhi's talk on product management](https://youtu.be/huTSPanUlQM)
 - [Microsoft's blogpost on program management - their version of Product Managers](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/)
+- [A classic article on product management by Ben Horowitz (albeit rather dated)](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
+- 
 
 
 
@@ -308,16 +311,6 @@ In addition to these fellowships, several companies offer special programs for y
 
 
 
-Cover Letter
-
-Skills
-
-Building them
-Selling them
-Your Search
-
-
-
 # Your Attitude
 
 When you're internship/job hunting, it's very easy to feel down if you don't hear back from companies, an interview goes poorly, or you start comparing yourself to people.  It's a tough field we're going into.
@@ -330,124 +323,84 @@ When you're talking to companies and recruiters at career fairs and hackathons a
 
 # Your Skills
 
-Obviously, your skills are what a company is buying from you when they hire you.  So, honing in those skills and presenting them in an effective way is *probably* the most important thing in getting a gig.
+Obviously, your skills are what a company is buying from you when they hire you.  So, honing in those skills and presenting them in an effective way is *probably* the most important thing in getting a gig. 
 
 ## Building Them
 
+Unlike software engineering, product management interviews tend to be more free form. Part of the reason why is because the role is much less technical and more "soft". This does not mean that product management interviews are easier, it just means that the skillset you need to develop is different. Product interviews can be broken down into the following categories:
 
+#### Behavioural Questions
 
+Behavioural questions are your time to tell interviewers what you have done. Remember to follow the CAR method (Context, Action, Results). This is also known as the STAR method in some places. Behavioural questions boil down to 5 major types of questions (thanks Cracking the PM Interview for this insight):
 
-Here are some PM Questions
-
-
-Tell me about yourself -  you need to get this down. A 30 second version. A 1 minute version. A 3 minute version. This will be invaluable.
-What is Product Management - because PM is so ambiguous, you want to be able to demonstrate you understand what it is
-Why Product Management - you need to understand why you are doing PM and convey that reson to others.
-
-Behavioural Questions
-
-They end up boiling down to the following areas
 - Leadership/Influence
 - Teamwork
 - Successes
 - Challenges
 - Mistakes/Failures 
 
-Estimation Questions: how many ping pong balls fit in a 747 airplane?
+Make a table to come up with answers to all of them (thanks Gayle from Cracking the PM Interview for this one).
+
+#### Estimation Questions
+
+Estimation questions (also known as fermi problems) are where you are asked to calculate something that you do not know. A classic question is: How many ping pong balls fit in a 747 airplane? My personal approach here is as follows: 
+
+1) Ask questions to clarify the problem
+2) State what you know
+3) Come up with a formula to get the answer
+4) Fill in what you do not know (remember to state any assumptions)
+5) Calculate your answer
+
+Remember to use round numbers to simplify your calculations (i.e. use something like 10,000 instead of 9876)
+
+#### Design/Product Questions
+
+These are arguably the most important questions. They fall into 3 common categories (thanks Cracking the PM Interview for this):
+
+1) Design a product (ex: how do you create an alarm clock for people who are blind?)
+2) Improving a product (ex: how would you improve Instagram?)
+3) Favourite product (ex: what is your favourite product and why?)
+
+A common question to ask that is a combination of them is the product teardown question, where you are asked to pick your favourite product, to pull it out (like on your phone or something) and then discuss it with your interviewer. This can take various forms/routes but some common topics include: talking about what you like about the product, what you do not like, what you would do if you were the product manager for it and the competitive landscape is like. 
+
+#### Misc
+
+There are some questions that are so common that you need to have an answer for them. In my experience, I have found that they get asked a lot:
+
+- Tell me about yourself - this is your opportunity to make yourself stand out and is a standard interview opener. It is also good to know for career fairs, meetups or anywhere you meet people in life, really. I reccomend having a 30 second, 1 minute and 3 minute version ready.
+- What is Product Management - because PM is so ambiguous, people want to know if you understand what the role is all about, so it is a common question. Come up with what PM means to you and use it.
+- Why Product Management - you should have a good understanding of why you wanna be a PM and be able to communicate it well. This also helps you get a sense of if you really wanna do PM or if you are just following the hype.
 
 
 
-Design Questions: Design an alarm clock for the blind
-Product Questions:
-1) How would you improve google maps?
+#### Where to build them
 
-Favourite Product?
-
-Common Blend: Teardown - pick a product you like and discuss strengths/weaknesses, the specific industry it is in, how you would perform as a PM there, etc.
-
-
-
-
-Use a table to come up with answers to all of them (thanks Gayle from Cracking the PM Interview for this one)
-
-Chances are, if you've had a data structures and/or algorithms class, you're already going to do pretty well in the technical interviews.  That is, if you can recall the information you learned.
-
-Here's a checklist of things that you should probably be prepared to know in a technical interview:
-- Data types
-- Basic Bitwise Operations
-- String Operations
-- Arrays
-- Linked Lists
-  - Singly Linked
-  - Doubly Linked
-  - Circular Linked
-- Queues
-- Stacks
-- Heaps
-- Trees
-  - Binary Trees
-  - Binary Search Trees
-  - Tries
-  - Self Balancing Trees
-- Traversing Trees
-  - Breadth First Search - BFS
-  - Depth First Search - DFS
-  - Preorder, Inorder, Postorder
-- Graphs
-  - Dijkstra's Algorithm / A* Search
-- Hash Maps
-  - Handling Collisions
-- Sorting algorithms
-  - Insertion
-  - Selection
-  - Merge
-  - Quick
-- Time Complexities
-
-This guide isn't for teaching you these skills.  But there are several guides, problem sets, and practice systems out there that can help.
+This guide isn't for teaching you these skills.  But there are several (more comprehensive) guides, problem sets, and practice systems out there that can help.
 
 **General Guides**
-- [Sorting Algorithms](http://www.sorting-algorithms.com/)
-- [Big-O Cheat Sheet](http://bigocheatsheet.com/)
-- [Data Structures and Algorithms Overview](http://www.dsalgo.com/2013/02/index.php.html?m=1)
-- [Algorithm Implementations](http://algorithm.zone/)
-- [Top 10 Algorithms for coding interviews](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+- [How to prepare for Product Management interviews?](https://fernandodelgado.com/how-to-prepare-for-product-management-interviews/)
 
 **Problem Sets**
-- [Data Structures Questions](http://www.geeksforgeeks.org/data-structures/)
-- [FitCoding](http://www.fitcoding.com/)
-- [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
-
-**Online Judging Systems**
 - [The PM Interview](http://thepminterview.com/)
 
-- [LeetCode Online Judge](https://oj.leetcode.com/problemset/algorithms/)
-- [HackerRank Online Judge](https://www.hackerrank.com/)
-- [Project Euler](https://projecteuler.net/)
-
 **Mock Interviews**
-- [Pramp](https://www.pramp.com) - free
 - [Careercup](http://www.careercup.com/interview) - paid
-- [Gainlo](http://www.gainlo.co/) - paid
-- [Impact Interview](http://www.impactinterview.com/software-engineering-interview-coaching/) - paid
-
+- [Gainlo](http://www.gainlo.co/) - paid (not sure if this is PM specific though)
+- Your friends - work with your friends and ask them to mock interview them and return the favour (this helps a lot and can be fun too)
 
 **Online Communities**
 - [HH Product Management Facebook Group](https://www.facebook.com/groups/hhProductManagement/)
 
-
 Here's some books that might also be useful.
 - [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - I highly recommend this one. It was the primary source that I used.
+- [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and comes well recommended
 - [Design of Everyday Things, by Don Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
 - [Don't Make Me Think, by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 
+Typically for an internship or your first job, PM questions will not be super specific, but it is good practice to know the industry of the company you are applying for and know it well. So, do research on the company and the types of products they make and what you would like to do as a PM there.
 
-
-Typically, for an internship or your first job, questions won't get much more specific unless you're applying for a specific role.  For example, if I wanted to be a mobile intern, I might be asked iOS/Android/Windows Phone specific questions, or if I wanted to be a web intern, I might be asked HTML/CSS/JavaScript questions, or if I wanted to be a backend intern, I might be asked about Django or Node or Ruby on Rails.  That definitely depends on the company, and what you're both looking for.
-
-Make sure you're able to implement and use the above data structures without the assistance of an IDE. Typically, onsite technical interviews involve coding on paper or a whiteboard, and phone/video interviews usually involve some kind of collaborative text editor. Yes, that means you won't have access to auto-complete, auto-compiling, or the internet to check for errors. So be ready for that!
 
 ## Selling Them
 
@@ -455,44 +408,20 @@ When you're actively emailing and speaking with recruiters, they're going to ask
 
 If you've written anything in a language before, **put it on your resume**.  A lot of companies have parsers that look for specific things that, again, will put a tick on those checkboxes before putting you through to the next round of review.  Now, if you've only ever done "Hello, world!" in Python, don't say that you're a Python ninja or whatever.  You don't want to be thrown into an interview that will only hurt your self-confidence.  Speaking from experience.  Trust me.
 
-When a recruiter or engineer is asking you about a certain project you've done, or how you've used a particular language, be as specific as possible.  Tell them **exactly** what you did on that particular project (or internship or what have you).  Tell them how much you contributed, what languages you used, how long was the duration of development for that project, what was the outcome of the project, etc. etc.
+When a recruiter or engineer is asking you about a certain project/extracurricular activity you've done, be as specific as possible.  Tell them **exactly** what you did on that particular project (or internship or what have you).  Tell them how much you contributed, what metrics you used to measure your success, what was the outcome of the project, etc. etc.
 
-For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end.  It's a static site, so a backend wasn't needed.  The website's main function is to promote the club and give members crucial updates about meetings and events, and I update it regularly via a Python script I wrote."  Oh my, you enchanting software engineer, you.  Let me hire you.
+For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end. I figured out the requirements by taking to the club and created  it. Turns out we needed it for promotional purposes give members crucial updates about meetings and events. So, so I figured out how to SEO it so that it is first on google rankings when searching CS Clubs in my city."  Oh my, you enchanting product manager, you.  Let me hire you.
 
 When you're talking to companies about specific things you've done, make sure they know:
 - **What?** - What? - What did you make? What does it do? What impact has it made? What was the hardest part? What could you have done better?
 - **Why?** - Why did you make it?  Was it for a hackathon, a school project, an open source contribution, or something else?
-- **How?** - With which technologies did you make this?  Did you use a specific API?  What parts of it did you work on?
+- **How?** - With which technologies did you make this? How did you get it done - what is the process used?  Did you use a specific API?  What parts of it did you work on?
 - **When?** - Did you do this recently or are you still living off of when you peaked in 10th grade?
 - **Who?** - Did you work on this with anyone?  Who did what?  Who is this for?
 
 Your skills are something that you have, and the reason why you have them is because you've used them in some way.  All you have to do to prove yourself is to explain yourself!  No need to go overboard and brag.  Just be honest, and confident.
 
 
-## Fellowships
-Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program.
-
-Here's a list of some example fellowship programs.  This is by no means a complete list (feel free to send a pull request or file an issue if there's another you'd like to be added), but it should get you started!
-
-- [Cansbridge Fellowship](http://www.cansbridgefellowship.com/)
-- [CODE2040](http://code2040.org/)
-- [FirstMark Elite](http://firstmarkelite.com/)
-- [Ford-Mozilla Fellows](https://advocacy.mozilla.org/open-web-fellows/)
-- [hackNY Fellows](http://apply.hackny.org/)
-- [Knight-Mozilla Fellows](https://opennews.org/what/fellowships/info/)
-- [KPCB Fellows](http://kpcbfellows.com/)
-- [Mayfield Fellows Program](http://stvp.stanford.edu/mayfield-fellows-program/)
-- [PennApps Fellows](http://www.pennappsfellows.com/)
-- [True Entrepreneur Corps](http://www.trueventures.com/tec/)
-
-In addition to these fellowships, several companies offer special programs for younger students that are similarly geared towards learning and mentorship.  Here's another list that is not complete, but will get you started:
-
-- [Microsoft Explore](http://careers.microsoft.com/careers/en/us/university-programs.aspx) (I'm biased because I did this one, but this program is AWESOME)
-- [Google Engineering Practicum](https://www.google.com/jobs/students/engpracticum)
-- [Facebook University of Engineering](https://www.facebook.com/careers/university/fbueng)
-- [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
-- [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
-- [Pinterest Engage Software Engineer Intern](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
 
 # Conclusion
 
