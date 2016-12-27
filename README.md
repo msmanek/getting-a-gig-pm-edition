@@ -12,6 +12,8 @@ I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting
 - [Misconceptions (aka what PM is not)](#misconceptions-aka-what-pm-is-not)
 - [Your Profile](#your-profile)
 - [Your Skills](#your-skills)
+  - Building Them
+  - Selling Them
 - [Your Attitude](#your-attitude)
 - [Your Resume](#your-resume)
 - [Your Cover Letter](#your-cover-letter)
@@ -57,21 +59,20 @@ Here are some good primers by people smarter than me:
 - [Sachin Rekhi's talk on product management](https://youtu.be/huTSPanUlQM)
 - [Microsoft's blogpost on program management - their version of Product Managers](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/)
 - [A classic article on product management by Ben Horowitz (albeit rather dated)](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
-- 
 
 
 
 # Misconceptions (aka what PM is not)
 
-#### Misconception 1: Product Managers are Managers
+### Misconception 1: Product Managers are Managers
 
 Despire the name "manager" in the title, product managers tend to not directly manage people. In some companies, there may be a product manager managers or a head of product who tends to manage other product managers. But, in general, the product manager's role is not directly above that of engineers, QA, etc. Instead, product managers practice "influence without authority", which means that they need to be able to get buy in from the rest of the technical team and get them onboard without their vision. This is one of the reasons why product managers need to be strong communicators and great at dealing with people. 
 
-#### Misconception 2: Product Managers are glorified project managers
+### Misconception 2: Product Managers are glorified project managers
 
 While it is true that product managers do some project management, the role of the product manager is fundamentally different from that of the project manager. The a project manager tends to already have requirements/scoping given to them. They then divy the work up and set timelines. A product manager's job is to gather the requirements and develop an understanding of where the product is going and commiunicate this understanding to others to get it done. 
 
-#### Misconception 3: Product Managers are Non-Technical
+### Misconception 3: Product Managers are Non-Technical
 
 While it is true that majority of product managers do not directly touch code, many do in fact come from a technical background. Product Managers need to understand how the development process works and how to communicate with developers. Having experience directly in the development process as a dev, hence, is valuable to have as a product manager. But technical backgrounds are not the only backgrounds that product managers come from. [Here is a great blogpost by Sachin Rekhi on the various routes one can take to become a product manager.](http://www.sachinrekhi.com/5-paths-to-your-first-product-manager-role)
 
@@ -81,27 +82,127 @@ While it is true that majority of product managers do not directly touch code, m
 
 As a a tech major, there are three major areas of skills that you want to posess that you can sell yourself by as a product manager: development, design and business.
 
-#### Development (aka Software Engineering)
+### Development (aka Software Engineering)
 
 I will not go too much in the details here, but having a software engineering background is quite useful for someone going into product. Also, because you are a tech major, I am assuming that you have had some programming courses before and know some of the basics. You will not be directly asked coding interview questions (it is highly irregular for you to be asked them), but knowing the process of the creation of software is invaluable. Furthermore, PM's tend to need to go through data, so knowing some SQL is valuable here.
 
 *BUT HOW?* Get a software engineering internship somewhere. Go to hackathons and build things. Pick up some side projects along the way.
 
-#### Design
+### Design
 
 Depending on the type of product management you are doing, you will have to have an understanding of design. Why? If you are the product manager of an app, you are going to need to have a sense of design to know how to aesthetically make a feature. Beyond that, there is the theory of design (ex: usability heuristics, types of interaction, etc.) as well as the design process. You will need to know how the design process works (defining the problem, coming up with key metrics, brainstorming solutions, determining which one is best to go forward and testing it to see if it's the right one). So, having a background in some form of design is valuable as you will be going through the design process as a PM and a lot of PM interview questions are design oriented.
 
 *BUT HOW?* Take design courses in school in areas such as Human Computer Interaction or Interaction Design. Challenge yourself to do redesigns of common websites/products and document your process online (ex: Spotify, Facbook, GMail, etc). Do web design for free for organizations you care about to get a sense how things are designed. Read design blogs/books.
 
-#### Business
+### Business
 
 Great product managers are able to understand the market they are in, and the business needs of the company. Using this understanding, they are able to come up with the best solution to move forward. As a result of that, having a good business acumen is a valuable asset. A good product manager is able to understand the competitive landscape and other stakeholders when coming up with the direction of a product. In interviews, this a valuable skill to have too (ex: what are the competitors of a business?).
 
 *BUT HOW?* Get involved out of school with clubs/extracurricular activities. Start a business or a non-profit and get involved with the business side of things.
 
-#### A Note
+### A Note
 
 The best product managers are the ones who are able to build great products. So, to demonstrate that, pick a product and make it a reality. [Here is a repo with some ideas.](https://github.com/vicky002/1000_Projects) Or, make a personal website/portfolio, it serves the double purpose of making you look like a stronger candidate and developing your skills. If those bore you, make a clone of your favourite app, but make it better. Show that you have what it takes to make great products and then launch them. Not only will this look good as a PM, but you will have a ton of fun doing it and will learn a lot about what it means to be a PM by doing it. 
+
+
+
+# Your Skills
+
+Obviously, your skills are what a company is buying from you when they hire you.  So, honing in those skills and presenting them in an effective way is *probably* the most important thing in getting a gig. 
+
+## Building Them
+
+Unlike software engineering, product management interviews tend to be more free form. Part of the reason why is because the role is much less technical and more "soft". This does not mean that product management interviews are easier, it just means that the skillset you need to develop is different. Product interviews can be broken down into the following categories:
+
+### Behavioural Questions
+
+Behavioural questions are your time to tell interviewers what you have done. Remember to follow the CAR method (Context, Action, Results). This is also known as the STAR method in some places. Behavioural questions boil down to 5 major types of questions (thanks Cracking the PM Interview for this insight):
+
+- Leadership/Influence
+- Teamwork
+- Successes
+- Challenges
+- Mistakes/Failures 
+
+Make a table to come up with answers to all of them (thanks Gayle from Cracking the PM Interview for this one).
+
+### Estimation Questions
+
+Estimation questions (also known as fermi problems) are where you are asked to calculate something that you do not know. A classic question is: How many ping pong balls fit in a 747 airplane? My personal approach here is as follows: 
+
+1) Ask questions to clarify the problem
+2) State what you know
+3) Come up with a formula to get the answer
+4) Fill in what you do not know (remember to state any assumptions)
+5) Calculate your answer
+
+Remember to use round numbers to simplify your calculations (i.e. use something like 10,000 instead of 9876)
+
+### Design/Product Questions
+
+These are arguably the most important questions. They fall into 3 common categories (thanks Cracking the PM Interview for this):
+
+1) Design a product (ex: how do you create an alarm clock for people who are blind?)
+2) Improving a product (ex: how would you improve Instagram?)
+3) Favourite product (ex: what is your favourite product and why?)
+
+A common question to ask that is a combination of them is the product teardown question, where you are asked to pick your favourite product, to pull it out (like on your phone or something) and then discuss it with your interviewer. This can take various forms/routes but some common topics include: talking about what you like about the product, what you do not like, what you would do if you were the product manager for it and the competitive landscape is like. 
+
+### Misc
+
+There are some questions that are so common that you need to have an answer for them. In my experience, I have found that they get asked a lot:
+
+- Tell me about yourself - this is your opportunity to make yourself stand out and is a standard interview opener. It is also good to know for career fairs, meetups or anywhere you meet people in life, really. I reccomend having a 30 second, 1 minute and 3 minute version ready.
+- What is Product Management - because PM is so ambiguous, people want to know if you understand what the role is all about, so it is a common question. Come up with what PM means to you and use it.
+- Why Product Management - you should have a good understanding of why you wanna be a PM and be able to communicate it well. This also helps you get a sense of if you really wanna do PM or if you are just following the hype.
+
+### Where to build them
+
+This guide isn't for teaching you these skills.  But there are several (more comprehensive) guides, problem sets, and practice systems out there that can help.
+
+**General Guides**
+- [How to prepare for Product Management interviews?](https://fernandodelgado.com/how-to-prepare-for-product-management-interviews/)
+
+**Problem Sets**
+- [The PM Interview](http://thepminterview.com/)
+
+**Mock Interviews**
+- [Careercup](http://www.careercup.com/interview) - paid
+- [Gainlo](http://www.gainlo.co/) - paid (not sure if this is PM specific though)
+- Your friends - work with your friends and ask them to mock interview them and return the favour (this helps a lot and can be fun too)
+
+**Online Communities**
+- [HH Product Management Facebook Group](https://www.facebook.com/groups/hhProductManagement/)
+
+Here's some books that might also be useful.
+- [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - I highly recommend this one. It was the primary source that I used.
+- [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and comes well recommended
+- [Design of Everyday Things, by Don Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+- [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
+- [Don't Make Me Think, by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+
+
+Typically for an internship or your first job, PM questions will not be super specific, but it is good practice to know the industry of the company you are applying for and know it well. So, do research on the company and the types of products they make and what you would like to do as a PM there.
+
+
+## Selling Them
+
+When you're actively emailing and speaking with recruiters, they're going to ask you a lot of questions that are just checkboxes for what they're looking for in terms of skills.
+
+If you've written anything in a language before, **put it on your resume**.  A lot of companies have parsers that look for specific things that, again, will put a tick on those checkboxes before putting you through to the next round of review.  Now, if you've only ever done "Hello, world!" in Python, don't say that you're a Python ninja or whatever.  You don't want to be thrown into an interview that will only hurt your self-confidence.  Speaking from experience.  Trust me.
+
+When a recruiter or engineer is asking you about a certain project/extracurricular activity you've done, be as specific as possible.  Tell them **exactly** what you did on that particular project (or internship or what have you).  Tell them how much you contributed, what metrics you used to measure your success, what was the outcome of the project, etc. etc.
+
+For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end. I figured out the requirements by taking to the club and created  it. Turns out we needed it for promotional purposes give members crucial updates about meetings and events. So, so I figured out how to SEO it so that it is first on google rankings when searching CS Clubs in my city."  Oh my, you enchanting product manager, you.  Let me hire you.
+
+When you're talking to companies about specific things you've done, make sure they know:
+- **What?** - What? - What did you make? What does it do? What impact has it made? What was the hardest part? What could you have done better?
+- **Why?** - Why did you make it?  Was it for a hackathon, a school project, an open source contribution, or something else?
+- **How?** - With which technologies did you make this? How did you get it done - what is the process used?  Did you use a specific API?  What parts of it did you work on?
+- **When?** - Did you do this recently or are you still living off of when you peaked in 10th grade?
+- **Who?** - Did you work on this with anyone?  Who did what?  Who is this for?
+
+Your skills are something that you have, and the reason why you have them is because you've used them in some way.  All you have to do to prove yourself is to explain yourself!  No need to go overboard and brag.  Just be honest, and confident.
 
 
 
@@ -251,15 +352,39 @@ When the email has been sent, you're done.  If you haven't heard back in a week 
 
 
 
+### New Grad:
+
+- [Yahoo APM](https://careers.yahoo.com/us/students/content/1729) - one of the first associate product manager programs...
+- [Facebook RPM](http://fbrpms.com/) - This is a rotational program that spans 18 months, where you get the opportunity to spend 6 months as a product manager in various functional areas in Facebook.
+- [Google APM](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-university-1600-amphitheatre-pkwy-mountain-view-ca-1029330389&) - Google's version of a rotational product management program started by Marissa Meyer. [This Quora post has a bunch of info on it.](https://www.quora.com/What-is-Googles-APM-program)
+- [Twitter APM](http://www.twitterapm.com/) - This is a two year program where you go through two rotations. 
+- [Zynga RPM](https://www.zynga.com/careers/positions/new-grad-full-time-rotational-product-manager-ur-2017) - apparently Zynga does the whole PM rotation thing too...
+- Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
+- Uber APM - apparently Uber hires Associate Product Managers out of school too....
+
+
+
+# Your Attitude
+
+When you're internship/job hunting, it's very easy to feel down if you don't hear back from companies, an interview goes poorly, or you start comparing yourself to people.  It's a tough field we're going into.
+
+So.  I won't spend much time on this.  But I want to emphasize something: **You're brilliant.**  You're in this field for a reason.  When your grades aren't awesome or someone gets something that you wanted, don't feel down on yourself.  So many opportunities will come your way if you just keep working hard and refining your skills.
+
+Mark Twain once said, "Comparison is the death of joy."  When you start to compare your skills to others, it's hard to not feel as good about your own, or to get a little too competitive about your work.  Work hard and don't let others get you down.  It's remarkable how significantly that can improve both your work and your interviewing experience!
+
+When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
+
+
+
 # Some Common Gigs
 
-#### Some Notes:
+### Some Notes:
 
 Product Management Internships tend to be few and far between. And they tend to be quite selective too. So a good tactic to employ is to get an internship doing something easier to get into first (i.e. software engineering) and then use the contacts you make to help you land the interview. Also, something that helps a lot is referrals. Big companies tend to give preference to them. 
 
 A lot of smaller companies/startups tend to have product managers as well. Often with them, they will not have an established PM Program. But, if you find the right decision maker and sway their opinion, you can actually end up with an internship that way (IMO this is the more effective and true to PM way to do it, especially if big company life is not for you or if you do not get into big companies). 
 
-#### Internships:
+### Internships:
 
 - Microsoft Program Management Internship - One of the more straightforward PM internships to get into. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your [Microsoft Recruiter](https://careers.microsoft.com/recruiters) (every school tends to have one assigned to them). Microsoft tends to lump this up with the Software Engineering Internship, and the applications tend to be the same as the application as the software engineering internship.
 - [Google APM Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-intern-summer-1600-amphitheatre-pkwy-mountain-view-ca-1029330310&) - One of the most selective and exclusive PM Internships. Definitely hard to get into. They publish the day that applications open, so apply on that day to maximize your chances.
@@ -272,7 +397,7 @@ A lot of smaller companies/startups tend to have product managers as well. Often
 - Eventmobi - a startup in Toronto, Canada that has previously hired PM interns
 
 
-#### Fellowships
+### Fellowships
 
 Fellowships are a great way to network with a community and get valuable mentorship that will most certainly help you in the long run.  They vary depending on the program, but typically you'll get assigned a mentor or two, go to several events to network with professionals, and intern for a company that has partnered with the specific fellowship program. Some fellowships exist where you can actually get a gig as a product manager (ex: KPCB's product fellowship). They tend to be rather selective, though. (This can be a good stepping stone to get into product)
 
@@ -297,129 +422,6 @@ In addition to these fellowships, several companies offer special programs for y
 - [Intel IRISE](http://www.intel.com/content/www/us/en/jobs/locations/united-states/students/internships/intel-early-internship-software-engineering.html)
 - [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
 - [Pinterest Engage Software Engineer Intern](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
-
-
-#### New Grad:
-
-- [Yahoo APM](https://careers.yahoo.com/us/students/content/1729) - one of the first associate product manager programs...
-- [Facebook RPM](http://fbrpms.com/) - This is a rotational program that spans 18 months, where you get the opportunity to spend 6 months as a product manager in various functional areas in Facebook.
-- [Google APM](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-university-1600-amphitheatre-pkwy-mountain-view-ca-1029330389&) - Google's version of a rotational product management program started by Marissa Meyer. [This Quora post has a bunch of info on it.](https://www.quora.com/What-is-Googles-APM-program)
-- [Twitter APM](http://www.twitterapm.com/) - This is a two year program where you go through two rotations. 
-- [Zynga RPM](https://www.zynga.com/careers/positions/new-grad-full-time-rotational-product-manager-ur-2017) - apparently Zynga does the whole PM rotation thing too...
-- Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
-- Uber APM - apparently Uber hires Associate Product Managers out of school too....
-
-
-
-# Your Attitude
-
-When you're internship/job hunting, it's very easy to feel down if you don't hear back from companies, an interview goes poorly, or you start comparing yourself to people.  It's a tough field we're going into.
-
-So.  I won't spend much time on this.  But I want to emphasize something: **You're brilliant.**  You're in this field for a reason.  When your grades aren't awesome or someone gets something that you wanted, don't feel down on yourself.  So many opportunities will come your way if you just keep working hard and refining your skills.
-
-Mark Twain once said, "Comparison is the death of joy."  When you start to compare your skills to others, it's hard to not feel as good about your own, or to get a little too competitive about your work.  Work hard and don't let others get you down.  It's remarkable how significantly that can improve both your work and your interviewing experience!
-
-When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
-
-# Your Skills
-
-Obviously, your skills are what a company is buying from you when they hire you.  So, honing in those skills and presenting them in an effective way is *probably* the most important thing in getting a gig. 
-
-## Building Them
-
-Unlike software engineering, product management interviews tend to be more free form. Part of the reason why is because the role is much less technical and more "soft". This does not mean that product management interviews are easier, it just means that the skillset you need to develop is different. Product interviews can be broken down into the following categories:
-
-#### Behavioural Questions
-
-Behavioural questions are your time to tell interviewers what you have done. Remember to follow the CAR method (Context, Action, Results). This is also known as the STAR method in some places. Behavioural questions boil down to 5 major types of questions (thanks Cracking the PM Interview for this insight):
-
-- Leadership/Influence
-- Teamwork
-- Successes
-- Challenges
-- Mistakes/Failures 
-
-Make a table to come up with answers to all of them (thanks Gayle from Cracking the PM Interview for this one).
-
-#### Estimation Questions
-
-Estimation questions (also known as fermi problems) are where you are asked to calculate something that you do not know. A classic question is: How many ping pong balls fit in a 747 airplane? My personal approach here is as follows: 
-
-1) Ask questions to clarify the problem
-2) State what you know
-3) Come up with a formula to get the answer
-4) Fill in what you do not know (remember to state any assumptions)
-5) Calculate your answer
-
-Remember to use round numbers to simplify your calculations (i.e. use something like 10,000 instead of 9876)
-
-#### Design/Product Questions
-
-These are arguably the most important questions. They fall into 3 common categories (thanks Cracking the PM Interview for this):
-
-1) Design a product (ex: how do you create an alarm clock for people who are blind?)
-2) Improving a product (ex: how would you improve Instagram?)
-3) Favourite product (ex: what is your favourite product and why?)
-
-A common question to ask that is a combination of them is the product teardown question, where you are asked to pick your favourite product, to pull it out (like on your phone or something) and then discuss it with your interviewer. This can take various forms/routes but some common topics include: talking about what you like about the product, what you do not like, what you would do if you were the product manager for it and the competitive landscape is like. 
-
-#### Misc
-
-There are some questions that are so common that you need to have an answer for them. In my experience, I have found that they get asked a lot:
-
-- Tell me about yourself - this is your opportunity to make yourself stand out and is a standard interview opener. It is also good to know for career fairs, meetups or anywhere you meet people in life, really. I reccomend having a 30 second, 1 minute and 3 minute version ready.
-- What is Product Management - because PM is so ambiguous, people want to know if you understand what the role is all about, so it is a common question. Come up with what PM means to you and use it.
-- Why Product Management - you should have a good understanding of why you wanna be a PM and be able to communicate it well. This also helps you get a sense of if you really wanna do PM or if you are just following the hype.
-
-
-
-#### Where to build them
-
-This guide isn't for teaching you these skills.  But there are several (more comprehensive) guides, problem sets, and practice systems out there that can help.
-
-**General Guides**
-- [How to prepare for Product Management interviews?](https://fernandodelgado.com/how-to-prepare-for-product-management-interviews/)
-
-**Problem Sets**
-- [The PM Interview](http://thepminterview.com/)
-
-**Mock Interviews**
-- [Careercup](http://www.careercup.com/interview) - paid
-- [Gainlo](http://www.gainlo.co/) - paid (not sure if this is PM specific though)
-- Your friends - work with your friends and ask them to mock interview them and return the favour (this helps a lot and can be fun too)
-
-**Online Communities**
-- [HH Product Management Facebook Group](https://www.facebook.com/groups/hhProductManagement/)
-
-Here's some books that might also be useful.
-- [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - I highly recommend this one. It was the primary source that I used.
-- [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and comes well recommended
-- [Design of Everyday Things, by Don Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
-- [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
-- [Don't Make Me Think, by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
-
-
-Typically for an internship or your first job, PM questions will not be super specific, but it is good practice to know the industry of the company you are applying for and know it well. So, do research on the company and the types of products they make and what you would like to do as a PM there.
-
-
-## Selling Them
-
-When you're actively emailing and speaking with recruiters, they're going to ask you a lot of questions that are just checkboxes for what they're looking for in terms of skills.
-
-If you've written anything in a language before, **put it on your resume**.  A lot of companies have parsers that look for specific things that, again, will put a tick on those checkboxes before putting you through to the next round of review.  Now, if you've only ever done "Hello, world!" in Python, don't say that you're a Python ninja or whatever.  You don't want to be thrown into an interview that will only hurt your self-confidence.  Speaking from experience.  Trust me.
-
-When a recruiter or engineer is asking you about a certain project/extracurricular activity you've done, be as specific as possible.  Tell them **exactly** what you did on that particular project (or internship or what have you).  Tell them how much you contributed, what metrics you used to measure your success, what was the outcome of the project, etc. etc.
-
-For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end. I figured out the requirements by taking to the club and created  it. Turns out we needed it for promotional purposes give members crucial updates about meetings and events. So, so I figured out how to SEO it so that it is first on google rankings when searching CS Clubs in my city."  Oh my, you enchanting product manager, you.  Let me hire you.
-
-When you're talking to companies about specific things you've done, make sure they know:
-- **What?** - What? - What did you make? What does it do? What impact has it made? What was the hardest part? What could you have done better?
-- **Why?** - Why did you make it?  Was it for a hackathon, a school project, an open source contribution, or something else?
-- **How?** - With which technologies did you make this? How did you get it done - what is the process used?  Did you use a specific API?  What parts of it did you work on?
-- **When?** - Did you do this recently or are you still living off of when you peaked in 10th grade?
-- **Who?** - Did you work on this with anyone?  Who did what?  Who is this for?
-
-Your skills are something that you have, and the reason why you have them is because you've used them in some way.  All you have to do to prove yourself is to explain yourself!  No need to go overboard and brag.  Just be honest, and confident.
 
 
 
