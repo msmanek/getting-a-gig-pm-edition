@@ -48,15 +48,15 @@ Here are some good primers by people smarter than me:
 
 # Misconceptions (aka what PM is not)
 
-### Misconception 1: Product Managers are Managers
+### Misconception 1: Product Managers are managers
 
 Despire the name "manager" in the title, product managers tend to not directly manage people. In some companies, there may be a product manager managers or a head of product who tends to manage other product managers. But in general, the product manager's role is not directly above that of engineers, QA, etc. Instead, product managers practice "influence without authority", which means that they need to be able to get buy in from the rest of the technical team and get them onboard without their vision. This is one of the reasons why product managers need to be strong communicators and great at dealing with people. 
 
 ### Misconception 2: Product Managers are glorified project managers
 
-While it is true that product managers do some project management, the role of the product manager is fundamentally different from that of the project manager. The a project manager tends to already have requirements/scoping given to them. They then divy the work up and set timelines. A product manager's job is to gather the requirements and develop an understanding of where the product is going and commiunicate this understanding to others to get it done. 
+While it is true that product managers do some project management, the role of the product manager is fundamentally different from that of the project manager. A project manager tends to already have requirements/scoping given to them. They then divy the work up and set timelines. A product manager's job is to gather the requirements and develop an understanding of where the product is going and communicate this understanding to others to get it done. 
 
-### Misconception 3: Product Managers are Non-Technical
+### Misconception 3: Product Managers are non-technical
 
 While it is true that majority of product managers do not directly touch code, many do come from a technical background. Product Managers need to understand how the development process works and how to communicate with developers. Having experience directly in the development process as a dev, hence, is valuable to have as a product manager. But technical backgrounds are not the only backgrounds that product managers come from. [Here is a great blogpost by Sachin Rekhi on the various routes one can take to become a product manager.](http://www.sachinrekhi.com/5-paths-to-your-first-product-manager-role)
 
@@ -64,7 +64,7 @@ While it is true that majority of product managers do not directly touch code, m
 
 # Your Profile 
 
-As a a tech major, there are three major areas of skills that you want to posess that you can sell yourself by as a product manager: development, design and business.
+As a a tech major, there are three major areas of skills that you want to posess that you can sell yourself to move towards being a product manager: development, design and business.
 
 ### Development (aka Software Engineering)
 
@@ -162,7 +162,7 @@ This guide isn't for teaching you these skills.  But there are several (more com
 
 Here's some books that might also be useful.
 - [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - I highly recommend this one. It was the primary source that I used.
-- [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and comes well recommended (thanks Fernando Delagato)
+- [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and is frequently recommended (thanks Fernando Delagato)
 - [Design of Everyday Things, by Don Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
 - [Don't Make Me Think, by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
@@ -177,7 +177,7 @@ When you're actively emailing and speaking with recruiters, they're going to ask
 
 When a recruiter or engineer is asking you about a certain project/extracurricular activity you've done, be as specific as possible.  Tell them **exactly** what you did on that particular project (or internship or what have you).  Tell them how much you contributed, what metrics you used to measure your success, what was the outcome of the project, etc. etc.
 
-For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end. I figured out the requirements by taking to the club and created  it. Turns out we needed it for promotional purposes give members crucial updates about meetings and events. So, so I figured out how to SEO it so that it is first on google rankings when searching CS Clubs in my city."  Oh my, you enchanting product manager, you.  Let me hire you.
+For example, don't say, "I'm the webmaster for a club website. Next question."  Okay, Dwight Schrute.  Go back to your beet farm.  Instead, say something more like this: "I developed and currently maintain the website for my university's computer science club. I built it from the ground up with HTML, CSS, JavaScript, and jQuery on the front-end. I figured out the requirements by taking to the club and created  it. Turns out we needed it for promotional purposes give members crucial updates about meetings and events. I then figured out how to improve the site's SEO so that it shows up first on Google when searching for CS Clubs in my city."  Oh my, you enchanting product manager, you.  Let me hire you.
 
 When you're talking to companies about specific things you've done, make sure they know:
 - **What?** - What? - What did you make? What does it do? What impact has it made? What was the hardest part? What could you have done better?
@@ -238,6 +238,7 @@ And finally, put down your graduation date.  So many students I've seen don't pu
 Companies aren't allowed to ask about your religion, marital status, or race/ethnicity, so you shouldn't include that.  
 
 In terms of contact information: you don't need your mailing address.  That is a thing of the past.  Just like my youth.  Tech companies email, and **maybe** call.  That's all you need!
+
 Some great things that you might also want to put on there are your personal website (if you have one, which you should), your GitHub profile (if you have one, which you should), and your LinkedIn (if you have one, which you should).
 
 Though there's some who might disagree, you should **include your GPA.**  If your major GPA is significantly higher than your overall GPA, you might want to consider having both (high tends to be anything over 3.0/4.0, but some say that high is actually 3.5/4.0).  When you have graduated and have a full-time job, you won't need it as much.  But at this point in your beautiful life, keep it in there.  Some companies care about GPA more than others, so you might as well play it safe and have it there.
