@@ -4,7 +4,9 @@ Getting a Gig: A Guide (PM EDITION)
 # Introduction
 
 Hey friends!
-I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I thought I would make an attempt at writing a (not so) comprehensive guide (please note: I left a lot of the original material from getting-a-gig because it is still relevant to PM and a lot of what is on it reflects my personal opinion). 
+I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I will have done 2 engineering internships and will be starting an APM internship come September. You can do that, too. Because you're great.
+
+**Please note:** I left a lot of the original material from getting-a-gig because it is still relevant to PM. Also, a lot of what is here reflects my personal opinion on PM as a whole. 
 
 # Contents
 
@@ -15,7 +17,7 @@ I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting
 - [Your Skills](#your-skills)
   - [Building Them](#building-them)
   - [Selling Them](#selling-them)
-- [Your Attitude](#your-attitude)
+- [Your Attitude](#you-will attitude)
 - [Your Resume](#your-resume)
 - [Your Cover Letter](#your-cover-letter)
 - [Your Search](#your-search)
@@ -32,9 +34,9 @@ I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting
 
 # The Role (aka what PM is)
 
-In recent years, product management has become a hot topic, and there has been a lot of hype surrounding the role. But, what does it really mean to be a product manager? The real answer is that product management is ambiguous. The role of the PM varies from company to company. In some companies, a PM is more akin to a marketing role, or a Product Marketing Manager. In other companies, PMs may in a more project management type role. So, it is important to define what a product manager is before we can begin discussing how to become one/get a gig as one.
+In recent years, product management has become a hot topic, and there has been a lot of hype surrounding the role. But, what does it really mean to be a product manager? The real answer is that product management is ambiguous. The role of the PM varies from company to company.
 
-A product manager is someone who takes ownership over a product (or a part of it) and does everything in their power to make that product succeed. They communicate with major stakeholders (users, internal teams, etc) to determine their requirements and then come up with the best way to make a product move forward. In many ways, product managers act as the glue between the business and the technology, understanding business needs that drive the development of a product.
+We are going to define a product manager as someone who takes ownership over a product (or a part of it) and does everything in their power to make that product succeed. They communicate with major stakeholders (users, internal teams, etc) to determine their requirements and then come up with the best way to make a product move forward. In many ways, product managers act as the glue between the business and the technology, understanding business needs that drive the development of a product.
 
 Here are some good primers by people smarter than me:
 
@@ -48,7 +50,7 @@ Here are some good primers by people smarter than me:
 
 ### Misconception 1: Product Managers are Managers
 
-Despire the name "manager" in the title, product managers tend to not directly manage people. In some companies, there may be a product manager managers or a head of product who tends to manage other product managers. But, in general, the product manager's role is not directly above that of engineers, QA, etc. Instead, product managers practice "influence without authority", which means that they need to be able to get buy in from the rest of the technical team and get them onboard without their vision. This is one of the reasons why product managers need to be strong communicators and great at dealing with people. 
+Despire the name "manager" in the title, product managers tend to not directly manage people. In some companies, there may be a product manager managers or a head of product who tends to manage other product managers. But in general, the product manager's role is not directly above that of engineers, QA, etc. Instead, product managers practice "influence without authority", which means that they need to be able to get buy in from the rest of the technical team and get them onboard without their vision. This is one of the reasons why product managers need to be strong communicators and great at dealing with people. 
 
 ### Misconception 2: Product Managers are glorified project managers
 
