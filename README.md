@@ -6,7 +6,7 @@ Getting a Gig: A Guide (PM EDITION)
 Hey friends!
 I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting-a-gig) to create this guide on how to get a gig in product management (PM from here on out) as a tech major. I will have completed 2 software engineering internships and will be starting a PM internship come September. You can do that, too. Because you're great.
 
-**Please note:** I left a lot of the original material from getting-a-gig (attitude, resume, cover letter, search and conclusion sections) because it is still relevant to PM. Also, a lot of what is here reflects my personal opinion on PM as a whole. 
+**Please note:** I left a lot of the original material from getting-a-gig (attitude, resume, cover letter, search and conclusion sections) because it is still relevant to PM. Also, what is here reflects my personal opinion on PM as a whole.
 
 # Contents
 
