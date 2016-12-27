@@ -112,11 +112,11 @@ Make a table to come up with answers to all of them (thanks Gayle from Cracking 
 
 Estimation questions (also known as fermi problems) are where you are asked to calculate something that you do not know. A classic question is: How many ping pong balls fit in a 747 airplane? My personal approach here is as follows: 
 
-1) Ask questions to clarify the problem
-2) State what you know
-3) Come up with a formula to get the answer
-4) Fill in what you do not know (remember to state any assumptions)
-5) Calculate your answer
+1. Ask questions to clarify the problem
+2. State what you know
+3. Come up with a formula to get the answer
+4. Fill in what you do not know (remember to state any assumptions)
+5. Calculate your answer
 
 Remember to use round numbers to simplify your calculations (i.e. use something like 10,000 instead of 9876)
 
@@ -124,9 +124,9 @@ Remember to use round numbers to simplify your calculations (i.e. use something 
 
 These are arguably the most important questions. They fall into 3 common categories (thanks Cracking the PM Interview for this):
 
-1) Design a product (ex: how do you create an alarm clock for people who are blind?)
-2) Improving a product (ex: how would you improve Instagram?)
-3) Favourite product (ex: what is your favourite product and why?)
+1. Design a product (ex: how do you create an alarm clock for people who are blind?)
+2. Improving a product (ex: how would you improve Instagram?)
+3. Favourite product (ex: what is your favourite product and why?)
 
 A common question to ask that is a combination of them is the product teardown question, where you are asked to pick your favourite product, to pull it out (like on your phone or something) and then discuss it with your interviewer. This can take various forms/routes but some common topics include: talking about what you like about the product, what you do not like, what you would do if you were the product manager for it and the competitive landscape is like. 
 
