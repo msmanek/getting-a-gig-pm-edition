@@ -130,7 +130,7 @@ These are arguably the most important questions. They fall into 3 common categor
 
 A common question to ask that is a combination of them is the product teardown question, where you are asked to pick your favourite product, to pull it out (like on your phone or something) and then discuss it with your interviewer. This can take various forms/routes but some common topics include: talking about what you like about the product, what you do not like, what you would do if you were the product manager for it and the competitive landscape is like. 
 
-### Misc
+### Misc Questions
 
 There are some questions that are so common that you need to have an answer for them. In my experience, I have found that they get asked a lot:
 
@@ -334,23 +334,11 @@ When the email has been sent, you're done.  If you haven't heard back in a week 
 
 
 
-# Your Attitude
-
-When you're internship/job hunting, it's very easy to feel down if you don't hear back from companies, an interview goes poorly, or you start comparing yourself to people.  It's a tough field we're going into.
-
-So.  I won't spend much time on this.  But I want to emphasize something: **You're brilliant.**  You're in this field for a reason.  When your grades aren't awesome or someone gets something that you wanted, don't feel down on yourself.  So many opportunities will come your way if you just keep working hard and refining your skills.
-
-Mark Twain once said, "Comparison is the death of joy."  When you start to compare your skills to others, it's hard to not feel as good about your own, or to get a little too competitive about your work.  Work hard and don't let others get you down.  It's remarkable how significantly that can improve both your work and your interviewing experience!
-
-When you're talking to companies and recruiters at career fairs and hackathons and over the phone, be confident, not arrogant.  Be grateful for the opportunity they're giving you, and smile!  A great attitude will take you VERY far.
-
-
-
 # Some Common Gigs
 
 ### Some Notes:
 
-Product Management Internships tend to be few and far between. And they tend to be quite selective too. So a good tactic to employ is to get an internship doing something easier to get into first (i.e. software engineering) and then use the contacts you make to help you land the interview. Also, something that helps a lot is referrals. Big companies tend to give preference to them. 
+In general, product management gigs tend to be few and far between. A company may have 1 PM for every 10 engineers. Or, even more. As a result of that, companies tend to be very selective. A good tactic to employ is to get an internship doing something easier to get into first (i.e. software engineering) and then use the contacts you make to help you land the interview. Also, something that helps a lot is referrals (see above). Big companies tend to give preference to them. 
 
 A lot of smaller companies/startups tend to have product managers as well. Often with them, they will not have an established PM Program. But, if you find the right decision maker and sway their opinion, you can actually end up with an internship that way (IMO this is the more effective and true to PM way to do it, especially if big company life is not for you or if you do not get into big companies). 
 
@@ -393,7 +381,7 @@ In addition to these fellowships, several companies offer special programs for y
 - [Qualcomm EIP (Early Identification Program)](https://www.qualcomm.com/company/careers/interns)
 - [Pinterest Engage Software Engineer Intern](https://careers.pinterest.com/careers/details/pinterest-engage-software-engineer-intern_san-francisco_143952)
 
-New Grad:
+### New Grad:
 
 - [Yahoo APM](https://careers.yahoo.com/us/students/content/1729) - one of the first associate product manager programs...
 - [Facebook RPM](http://fbrpms.com/) - This is a rotational program that spans 18 months, where you get the opportunity to spend 6 months as a product manager in various functional areas in Facebook.
