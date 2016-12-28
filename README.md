@@ -148,6 +148,7 @@ This guide isn't for teaching you these skills.  But there are several (more com
 
 **General Guides**
 - [How to prepare for Product Management interviews?](https://fernandodelgado.com/how-to-prepare-for-product-management-interviews/)
+- [How To Ace Your Product Management Interview](http://www.sachinrekhi.com/how-to-ace-your-product-management-interview)
 
 **Problem Sets**
 - [The PM Interview](http://thepminterview.com/)
@@ -157,11 +158,13 @@ This guide isn't for teaching you these skills.  But there are several (more com
 - [Gainlo](http://www.gainlo.co/) - paid (not sure if this is PM specific though)
 - Your friends - work with your friends and ask them to mock interview them and return the favour (this helps a lot and can be fun too)
 
-**Online Communities**
+**Online Communities/Blogs**
 - [HH Product Management Facebook Group](https://www.facebook.com/groups/hhProductManagement/)
+- [Sachin Rekhi](http://www.sachinrekhi.com/)
+- [Quora: What are the must read blogs for product managers?](https://www.quora.com/What-are-the-must-read-blogs-for-product-managers)
 
 Here's some books that might also be useful.
-- [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - I highly recommend this one. It was the primary source that I used.
+- [Cracking the PM Interview: How to Land a Product Manager Job in Technology, by Gayle Laakmann McDowell](https://www.amazon.ca/Cracking-PM-Interview-Product-Technology/dp/0984782818) - **I highly recommend this one.** It was the primary source that I used.
 - [Decode and Conquer: Answers to Product Management Interviews, by Lewis C. Lin](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) - I have not read it, but it seems valuable and is frequently recommended (thanks Fernando Delagato)
 - [Design of Everyday Things, by Don Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
