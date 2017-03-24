@@ -170,6 +170,9 @@ Here's some books that might also be useful.
 - [Made to Stick: Why Some Ideas Survive and Others Die, by Chip Heath](https://www.amazon.ca/Made-Stick-Ideas-Survive-Others/dp/1400064287) (thanks Marissa for this one)
 - [Don't Make Me Think, by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
+Here's some articles that may be useful.
+- [Google's PM Interview Prep Email](http://www.businessinsider.com/google-email-product-manager-2017-3) - a sample email sent to a candidate for a PM position at Google
+
 Typically for an internship or your first job, PM questions will not be super specific, but it is good practice to know the industry of the company you are applying for and know it well. So, do research on the company and the types of products they make and what you would like to do as a PM there.
 
 
