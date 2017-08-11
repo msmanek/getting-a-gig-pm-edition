@@ -17,7 +17,7 @@ I was inspired by [cassidoo's getting a gig](https://github.com/cassidoo/getting
 - [Your Skills](#your-skills)
   - [Building Them](#building-them)
   - [Selling Them](#selling-them)
-- [Your Attitude](#you-will attitude)
+- [Your Attitude](#your-attitude)
 - [Your Resume](#your-resume)
 - [Your Cover Letter](#your-cover-letter)
 - [Your Search](#your-search)
