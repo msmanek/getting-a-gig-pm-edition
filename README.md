@@ -42,7 +42,9 @@ Here are some good primers by people smarter than me:
 
 - [Sachin Rekhi's talk on product management](https://youtu.be/huTSPanUlQM)
 - [Microsoft's blogpost on program management - their version of Product Managers](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/)
+- [Should I become a Product Manager?](https://medium.com/@hemal/should-i-become-a-product-manager-5ce77949a13a)
 - [A classic article on product management by Ben Horowitz (albeit rather dated)](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
+- [The Modern Day Good Product Manager/Bad Product Manager by Hemal Shah, a seasoned PM](https://medium.com/@hemal/the-modern-day-good-product-manager-bad-product-d5b537398e3a)
 
 
 
@@ -353,7 +355,7 @@ A lot of smaller companies/startups tend to have product managers as well. Often
 
 ### Internships:
 
-- Microsoft Program Management Internship - One of the more straightforward PM internships to get into. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your [Microsoft Recruiter](https://careers.microsoft.com/recruiters) (every school tends to have one assigned to them). Microsoft tends to lump this up with the Software Engineering Internship, and the applications tend to be the same as the application as the software engineering internship.
+- Microsoft Program Management Internship - One of the most established PM internship programs. Microsoft tends to fill up spots early though, so aim to apply to this one by late August, early September if you want it the following summer (ex: apply in September 2016 for Summer 2017 internships). Reach out to your [Microsoft Recruiter](https://careers.microsoft.com/recruiters) (every school tends to have one assigned to them). Microsoft tends to lump this up with the Software Engineering Internship, and the applications tend to be the same as the application as the software engineering internship.
 - [Google APM Intern](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/associate-product-manager-intern-summer-1600-amphitheatre-pkwy-mountain-view-ca-1029330310&) - One of the most selective and exclusive PM Internships. Definitely hard to get into. They publish the day that applications open, so apply on that day to maximize your chances.
 - [LinkedIn Product Management Internship](https://studentcareers.linkedin.com/internships) - This one is a newer one, so there are fewer spots (for summer 2017, apparently there is max 10 spots)
 - [Yelp Product Management Internships](https://www.yelp.com/careers/job-openings/8ac4fd83-36be-4018-90a9-ca565a5c9196) - I personally do not know much about this beyond the fact that it does in fact exist.
