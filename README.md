@@ -413,7 +413,7 @@ One of my favourite sayings is "The first step to achieving your dreams is to no
 
 When I tell you to stay healthy, it's something that you might not consider when you're working until 3AM on a programming problem or trying to survive with 21 credits of technical classes.  We've all been there.  At times, it feels like it's the only way to get ahead.  But guess what: it's not!  Try to have a decent sleep schedule (as in, more than 3 hours a night) and eating schedule, too.  It'll keep you from burning out, and it's proven that it'll keep you alert and focused, which is essential for interview season!
 
-@Casidoo 's favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." 
+[Cassidy's](http://twitter.com/cassidoo) favorite quote is from Helen Keller: "One can never consent to creep when one feels an impulse to soar." 
 Everyone wants to be great, in their own way.  When I say to "be yourself," I mean that I want you to show people who you are, what you're passionate about, and what you strive to be!  If you keep your personal goals in mind as you work towards them, everything will fall into place, and you can truly **soar** into a great career.
 
 Alright, I've said my piece.  Go get 'em.  I hope that you find this guide useful as you go out to create change and be the best that you can be!
