@@ -151,6 +151,7 @@ This guide isn't for teaching you these skills.  But there are several (more com
 **General Guides**
 - [How to prepare for Product Management interviews?](https://fernandodelgado.com/how-to-prepare-for-product-management-interviews/)
 - [How To Ace Your Product Management Interview](http://www.sachinrekhi.com/how-to-ace-your-product-management-interview)
+- [Breaking into Product | What I wish I knew](https://medium.com/pminsider/breaking-into-product-what-i-wish-i-knew-ad22e99e8b26)
 
 **Problem Sets**
 - [The PM Interview](http://thepminterview.com/)
