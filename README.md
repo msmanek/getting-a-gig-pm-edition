@@ -365,6 +365,7 @@ A lot of smaller companies/startups tend to have product managers as well. Often
 - [Lyft Product Management Internship](https://www.lyft.com/jobs/product-management-intern-2017) - same with this
 - [Redfin Product Management Internship](http://www.redfin.com/about/jobs/description/product-manager-intern-seattle-oWEN3fwa) - same with this
 - Eventmobi - a startup in Toronto, Canada that has previously hired PM interns
+- [Asana](https://asana.com/jobs/university-recruiting) - [Jackie Bavaro](https://www.linkedin.com/in/jackiebavaro/) (the co-author of Cracking the PM Interview) is the head PM here. You literally get to work with the person who wrote THE defacto PM book!
 
 
 ### Fellowships
@@ -403,6 +404,7 @@ In addition to these fellowships, several companies offer special programs for y
 - [Zynga RPM](https://www.zynga.com/careers/positions/new-grad-full-time-rotational-product-manager-ur-2017) - apparently Zynga does the whole PM rotation thing too...
 - Microsoft Program Managers - Microsoft tends to hire PM's right out of college, meaning that you straight away become a fully fledged PM.
 - Uber APM - apparently Uber hires Associate Product Managers out of school too....
+- Dropbox - they hire PM's right out of college
 
 
 
